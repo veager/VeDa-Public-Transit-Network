@@ -1,0 +1,221 @@
+Line Name	Type	Sequence	Station Code	Station Name	Transfer	Build Start	Opening Date	Closed Date	Latitude	Longitude	Others
+Bukit Panjang LRT Line	LRT	1	BP1/NS4	Choa Chu Kang	Standard		Before 2020				
+Bukit Panjang LRT Line	LRT	2	BP2	South View			Before 2020				
+Bukit Panjang LRT Line	LRT	3	BP3	Keat Hong			Before 2020				
+Bukit Panjang LRT Line	LRT	4	BP4	Teck Whye			Before 2020				
+Bukit Panjang LRT Line	LRT	5	BP5	Phoenix			Before 2020				
+Bukit Panjang LRT Line	LRT	6	BP6-DT1	Bukit Panjang	Tap Out		Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	1	BP6-DT1	Bukit Panjang	Tap Out		Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	2	BP7	Petir			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	3	BP8	Pending			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	4	BP9	Bangkit			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	5	BP10	Fajar			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	6	BP11	Segar			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	7	BP12	Jelapang			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	8	BP13	Senja			Before 2020				
+Bukit Panjang LRT Line Cycle	LRT	9	BP6-DT1	Bukit Panjang	Tap Out		Before 2020				
+Punggol LRT Line East	LRT	1	NE17/PTC	Punggol	Standard		Before 2020				
+Punggol LRT Line East	LRT	2	PW1	Sam Kee			Before 2020				
+Punggol LRT Line East	LRT	3	PW2	Teck Lee			None				
+Punggol LRT Line East	LRT	4	PW3	Punggol Point			Before 2020				
+Punggol LRT Line East	LRT	5	PW4	Samudera			Before 2020				
+Punggol LRT Line East	LRT	6	PW5	Nibong			Before 2020				
+Punggol LRT Line East	LRT	7	PW6	Sumang			Before 2020				
+Punggol LRT Line East	LRT	8	PW7	Soo Teck			Before 2020				
+Punggol LRT Line East	LRT	9	NE17/PTC	Punggol	Standard		Before 2020				
+Punggol LRT Line West	LRT	1	NE17/PTC	Punggol	Standard		Before 2020				
+Punggol LRT Line West	LRT	2	PE1	Cove			Before 2020				
+Punggol LRT Line West	LRT	3	PE2	Meridian			Before 2020				
+Punggol LRT Line West	LRT	4	PE3	Coral Edge			Before 2020				
+Punggol LRT Line West	LRT	5	PE4	Riviera			Before 2020				
+Punggol LRT Line West	LRT	6	PE5	Kadaloor			Before 2020				
+Punggol LRT Line West	LRT	7	PE6	Oasis			Before 2020				
+Punggol LRT Line West	LRT	8	PE7	Damai			Before 2020				
+Punggol LRT Line West	LRT	9	NE17/PTC	Punggol	Standard		Before 2020				
+Sengkang LRT Line East	LRT	1	NE16/STC	Sengkang	Standard		Before 2020				
+Sengkang LRT Line East	LRT	2	SE1	Compassvale			Before 2020				
+Sengkang LRT Line East	LRT	3	SE2	Rumbia			Before 2020				
+Sengkang LRT Line East	LRT	4	SE3	Bakau			Before 2020				
+Sengkang LRT Line East	LRT	5	SE4	Kangkar			Before 2020				
+Sengkang LRT Line East	LRT	6	SE5	Ranggung			Before 2020				
+Sengkang LRT Line East	LRT	7	NE16/STC	Sengkang	Standard		Before 2020				
+Sengkang LRT Line West	LRT	1	NE16/STC	Sengkang	Standard		Before 2020				
+Sengkang LRT Line West	LRT	2	SW1	Cheng Lim			Before 2020				
+Sengkang LRT Line West	LRT	3	SW2	Farmway			Before 2020				
+Sengkang LRT Line West	LRT	4	SW3	Kupang			Before 2020				
+Sengkang LRT Line West	LRT	5	SW4	Thanggam			Before 2020				
+Sengkang LRT Line West	LRT	6	SW5	Fernvale			Before 2020				
+Sengkang LRT Line West	LRT	7	SW6	Layar			Before 2020				
+Sengkang LRT Line West	LRT	8	SW7	Tongkang			Before 2020				
+Sengkang LRT Line West	LRT	9	SW8	Renjong			Before 2020				
+Sengkang LRT Line West	LRT	10	NE16/STC	Sengkang	Standard		Before 2020				
+Circle Line	MRT	1	CC1/NE6/NS24	Dhoby Ghaut	Standard		Before 2020				
+Circle Line	MRT	2	CC2	Bras Basah			Before 2020				
+Circle Line	MRT	3	CC3	Esplanade			Before 2020				
+Circle Line	MRT	4	CC4/DT15	Promenade	Standard		Before 2020				
+Circle Line	MRT	5	CC5	Nicoll Highway			Before 2020				
+Circle Line	MRT	6	CC6	Stadium			Before 2020				
+Circle Line	MRT	7	CC7	Mountbatten			Before 2020				
+Circle Line	MRT	8	CC8	Dakota			Before 2020				
+Circle Line	MRT	9	CC9/EW8	Paya Lebar	Standard		Before 2020				
+Circle Line	MRT	10	CC10/DT26	MacPherson	Standard		Before 2020				
+Circle Line	MRT	11	CC11	Tai Seng			Before 2020				
+Circle Line	MRT	12	CC12	Bartley			Before 2020				
+Circle Line	MRT	13	CC13/NE12	Serangoon	Standard		Before 2020				
+Circle Line	MRT	14	CC14	Lorong Chuan			Before 2020				
+Circle Line	MRT	15	CC15/NS17	Bishan	Standard		Before 2020				
+Circle Line	MRT	16	CC16	Marymount			Before 2020				
+Circle Line	MRT	17	CC17/TE9	Caldecott	Standard		Before 2020				
+Circle Line	MRT	18	CC18	Bukit Brown			None				
+Circle Line	MRT	19	CC19/DT9	Botanic Gardens	Standard		Before 2020				
+Circle Line	MRT	20	CC20	Farrer Road			Before 2020				
+Circle Line	MRT	21	CC21	Holland Village			Before 2020				
+Circle Line	MRT	22	CC22/EW21	Buona Vista	Standard		Before 2020				
+Circle Line	MRT	23	CC23	one-north			Before 2020				
+Circle Line	MRT	24	CC24	Kent Ridge			Before 2020				
+Circle Line	MRT	25	CC25	Haw Par Villa			Before 2020				
+Circle Line	MRT	26	CC26	Pasir Panjang			Before 2020				
+Circle Line	MRT	27	CC27	Labrador Park			Before 2020				
+Circle Line	MRT	28	CC28	Telok Blangah			Before 2020				
+Circle Line	MRT	29	CC29/NE1	HarbourFront	Standard		Before 2020				
+Circle Line Extension	MRT	1	CC4/DT15	Promenade	Standard		Before 2020				
+Circle Line Extension	MRT	2	CE1/DT16	Bayfront	Standard		Before 2020				
+Circle Line Extension	MRT	3	CE2/NS27/TE20	Marina Bay	Standard		Before 2020				
+Downtown Line	MRT	1	DT1	Bukit Panjang			Before 2020				
+Downtown Line	MRT	2	DT2	Cashew			Before 2020				
+Downtown Line	MRT	3	DT3	Hillview			Before 2020				
+Downtown Line	MRT	4	DT4	Hume			None				
+Downtown Line	MRT	5	DT5	Beauty World			Before 2020				
+Downtown Line	MRT	6	DT6	King Albert Park			Before 2020				
+Downtown Line	MRT	7	DT7	Sixth Avenue			Before 2020				
+Downtown Line	MRT	8	DT8	Tan Kah Kee			Before 2020				
+Downtown Line	MRT	9	CC19/DT9	Botanic Gardens	Standard		Before 2020				
+Downtown Line	MRT	10	DT10/TE11	Stevens	Standard		Before 2020				
+Downtown Line	MRT	11	DT11-NS21	Newton	Tap Out		Before 2020				
+Downtown Line	MRT	12	DT12/NE7	Little India	Standard		Before 2020				
+Downtown Line	MRT	13	DT13	Rochor			Before 2020				
+Downtown Line	MRT	14	DT14/EW12	Bugis	Standard		Before 2020				
+Downtown Line	MRT	15	CC4/DT15	Promenade	Standard		Before 2020				
+Downtown Line	MRT	16	CE1/DT16	Bayfront	Standard		Before 2020				
+Downtown Line	MRT	17	DT17	Downtown			Before 2020				
+Downtown Line	MRT	18	DT18	Telok Ayer			Before 2020				
+Downtown Line	MRT	19	DT19/NE4	Chinatown	Standard		Before 2020				
+Downtown Line	MRT	20	DT20	Fort Canning			Before 2020				
+Downtown Line	MRT	21	DT21	Bencoolen			Before 2020				
+Downtown Line	MRT	22	DT22	Jalan Besar			Before 2020				
+Downtown Line	MRT	23	DT23	Bendemeer			Before 2020				
+Downtown Line	MRT	24	DT24	Geylang Bahru			Before 2020				
+Downtown Line	MRT	25	DT25	Mattar			Before 2020				
+Downtown Line	MRT	26	CC10/DT26	MacPherson	Standard		Before 2020				
+Downtown Line	MRT	27	DT27	Ubi			Before 2020				
+Downtown Line	MRT	28	DT28	Kaki Bukit			Before 2020				
+Downtown Line	MRT	29	DT29	Bedok North			Before 2020				
+Downtown Line	MRT	30	DT30	Bedok Reservoir			Before 2020				
+Downtown Line	MRT	31	DT31	Tampines West			Before 2020				
+Downtown Line	MRT	32	DT32-EW2	Tampines	Tap Out		Before 2020				
+Downtown Line	MRT	33	DT33	Tampines East			Before 2020				
+Downtown Line	MRT	34	DT34	Upper Changi			Before 2020				
+Downtown Line	MRT	35	DT35	Expo			Before 2020				
+East-West Line	MRT	1	EW1	Pasir Ris			Before 2020				
+East-West Line	MRT	2	DT32-EW2	Tampines	Tap Out		Before 2020				
+East-West Line	MRT	3	EW3	Simei			Before 2020				
+East-West Line	MRT	4	CG/EW4	Tanah Merah	Standard		Before 2020				
+East-West Line	MRT	5	EW5	Bedok			Before 2020				
+East-West Line	MRT	6	EW6	Kembangan			Before 2020				
+East-West Line	MRT	7	EW7	Eunos			Before 2020				
+East-West Line	MRT	8	CC9/EW8	Paya Lebar	Standard		Before 2020				
+East-West Line	MRT	9	EW9	Aljunied			Before 2020				
+East-West Line	MRT	10	EW10	Kallang			Before 2020				
+East-West Line	MRT	11	EW11	Lavender			Before 2020				
+East-West Line	MRT	12	DT14/EW12	Bugis	Standard		Before 2020				
+East-West Line	MRT	13	EW13/NS13	City Hall	Standard		Before 2020				
+East-West Line	MRT	14	EW14/NS26	Raffles Place	Standard		Before 2020				
+East-West Line	MRT	15	EW15	Tanjong Pagar			Before 2020				
+East-West Line	MRT	16	EW16/NE3/T17	Outram Park	Standard		Before 2020				
+East-West Line	MRT	17	EW17	Tiong Bahru			Before 2020				
+East-West Line	MRT	18	EW18	Redhill			Before 2020				
+East-West Line	MRT	19	EW19	Queenstown			Before 2020				
+East-West Line	MRT	20	EW20	Commonwealth			Before 2020				
+East-West Line	MRT	21	CC22/EW21	Buona Vista	Standard		Before 2020				
+East-West Line	MRT	22	EW22	Dover			Before 2020				
+East-West Line	MRT	23	EW23	Clementi			Before 2020				
+East-West Line	MRT	24	EW24/NS1	Jurong East	Standard		Before 2020				
+East-West Line	MRT	25	EW25	Chinese Garden			Before 2020				
+East-West Line	MRT	26	EW26	Lakeside			Before 2020				
+East-West Line	MRT	27	EW27	Boon Lay			Before 2020				
+East-West Line	MRT	28	EW28	Pioneer			Before 2020				
+East-West Line	MRT	29	EW29	Joo Koon			Before 2020				
+East-West Line	MRT	30	EW30	Gul Circle			Before 2020				
+East-West Line	MRT	31	EW31	Tuas Crescent			Before 2020				
+East-West Line	MRT	32	EW32	Tuas West Road			Before 2020				
+East-West Line	MRT	33	EW33	Tuas Link			Before 2020				
+East-West Line Changi Airport Extension 	MRT	1	CG/EW4	Tanah Merah	Standard		Before 2020				
+East-West Line Changi Airport Extension 	MRT	2	CG1	Expo			Before 2020				
+East-West Line Changi Airport Extension 	MRT	3	CG2	Changi Airport			Before 2020				
+North East Line	MRT	1	CC29/NE1	HarbourFront	Standard		Before 2020				
+North East Line	MRT	2	NE2				None				
+North East Line	MRT	3	EW16/NE3/T17	Outram Park	Standard		Before 2020				
+North East Line	MRT	4	DT19/NE4	Chinatown	Standard		Before 2020				
+North East Line	MRT	5	NE5	Clarke Quay			Before 2020				
+North East Line	MRT	6	CC1/NE6/NS24	Dhoby Ghaut	Standard		Before 2020				
+North East Line	MRT	7	DT12/NE7	Little India	Standard		Before 2020				
+North East Line	MRT	8	NE8	Farrer Park			Before 2020				
+North East Line	MRT	9	NE9	Boon Keng			Before 2020				
+North East Line	MRT	10	NE10	Potong Pasir			Before 2020				
+North East Line	MRT	11	NE11	Woodleigh			Before 2020				
+North East Line	MRT	12	CC13/NE12	Serangoon	Standard		Before 2020				
+North East Line	MRT	13	NE13	Kovan			Before 2020				
+North East Line	MRT	14	NE14	Hougang			Before 2020				
+North East Line	MRT	15	NE15	Buangkok			Before 2020				
+North East Line	MRT	16	NE16/STC	Sengkang	Standard		Before 2020				
+North East Line	MRT	17	NE17/PTC	Punggol	Standard		Before 2020				
+North-South Line	MRT	1	EW24/NS1	Jurong East	Standard		Before 2020				
+North-South Line	MRT	2	NS2	Bukit Batok			Before 2020				
+North-South Line	MRT	3	NS3	Bukit Gombak			Before 2020				
+North-South Line	MRT	4	BP1/NS4	Choa Chu Kang	Standard		Before 2020				
+North-South Line	MRT	5	NS5	Yew Tee			Before 2020				
+North-South Line	MRT	6	NS6	Sungei Kadut			None				
+North-South Line	MRT	7	NS7	Kranji			Before 2020				
+North-South Line	MRT	8	NS8	Marsiling			Before 2020				
+North-South Line	MRT	9	NS9/TE2	Woodlands	Standard		Before 2020				
+North-South Line	MRT	10	NS10	Admiralty			Before 2020				
+North-South Line	MRT	11	NS11	Sembawang			Before 2020				
+North-South Line	MRT	12	NS12	Canberra			Before 2020				
+North-South Line	MRT	13	NS13	Yishun			Before 2020				
+North-South Line	MRT	14	NS14	Khatib			Before 2020				
+North-South Line	MRT	15	NS15	Yio Chu Kang			Before 2020				
+North-South Line	MRT	16	NS16	Ang Mo Kio			Before 2020				
+North-South Line	MRT	17	CC15/NS17	Bishan	Standard		Before 2020				
+North-South Line	MRT	18	NS18	Braddell			Before 2020				
+North-South Line	MRT	19	NS19	Toa Payoh			Before 2020				
+North-South Line	MRT	20	NS20	Novena			Before 2020				
+North-South Line	MRT	21	DT11-NS21	Newton	Tap Out		Before 2020				
+North-South Line	MRT	22	NS22/TE14	Orchard	Standard		Before 2020				
+North-South Line	MRT	23	NS23	Somerset			Before 2020				
+North-South Line	MRT	24	CC1/NE6/NS24	Dhoby Ghaut	Standard		Before 2020				
+North-South Line	MRT	25	EW13/NS25	City Hall	Standard		Before 2020				
+North-South Line	MRT	26	EW14/NS26	Raffles Place	Standard		Before 2020				
+North-South Line	MRT	27	CE2/NS27/TE20	Marina Bay	Standard		Before 2020				
+North-South Line	MRT	28	NS28	Marina South Pier			Before 2020				
+Thomson-East Coast Line	MRT	1	TE1	Woodlands North			2020-01-31				
+Thomson-East Coast Line	MRT	2	NS9/TE2	Woodlands	Standard		2020-01-31				
+Thomson-East Coast Line	MRT	3	TE3	Woodlands South			2020-01-31				
+Thomson-East Coast Line	MRT	4	TE4	Springleaf			2021-08-28				
+Thomson-East Coast Line	MRT	5	TE5	Lentor			2021-08-28				
+Thomson-East Coast Line	MRT	6	TE6	Mayflower			2021-08-28				
+Thomson-East Coast Line	MRT	7	TE7	Bright Hill			2021-08-28				
+Thomson-East Coast Line	MRT	8	TE8	Upper Thomson			2021-08-28				
+Thomson-East Coast Line	MRT	9	CC17/TE9	Caldecott	Standard		2021-08-28				
+Thomson-East Coast Line	MRT	10	TE10	Mount Pleasant			None				
+Thomson-East Coast Line	MRT	11	DT10/TE11	Stevens	Standard		2022-11-13				
+Thomson-East Coast Line	MRT	12	TE12	Napier			2022-11-13				
+Thomson-East Coast Line	MRT	13	TE13	Orchard Boulevard			2022-11-13				
+Thomson-East Coast Line	MRT	14	NS22/TE14	Orchard	Standard		2022-11-13				
+Thomson-East Coast Line	MRT	15	TE15	Great World			2022-11-13				
+Thomson-East Coast Line	MRT	16	TE16	Havelock			2022-11-13				
+Thomson-East Coast Line	MRT	17	EW16/NE3/T17	Outram Park	Standard		2022-11-13				
+Thomson-East Coast Line	MRT	18	TE18	Maxwell			2022-11-13				
+Thomson-East Coast Line	MRT	19	TE19	Shenton Way			2022-11-13				
+Thomson-East Coast Line	MRT	20	CE2/NS27/TE20	Marina Bay	Standard		2022-11-13				
+Thomson-East Coast Line	MRT	21	TE21	Marina South			None				
+Thomson-East Coast Line	MRT	22	TE22	Gardens by the Bay			2022-11-13				
