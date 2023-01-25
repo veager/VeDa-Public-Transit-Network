@@ -13,13 +13,10 @@
 
 
 - **MRT**
-- **wikipedia:** [Mass Rapid Transit](en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore))
-  
-- **MRT Station List:** [LTA Transport Tools](lta.gov.sg/content/ltagov/en/map/train.html)
-  
-- **MRT Map**: [LTA Rail Network](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html)
-  
-- **MRT Map of Singapore:** [website](https://mrtmapsingapore.com/)
+    - **wikipedia:** [Mass Rapid Transit](en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore))
+    - **MRT Station List:** [LTA Transport Tools](lta.gov.sg/content/ltagov/en/map/train.html)
+    - **MRT Map**: [LTA Rail Network](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html)
+    - **MRT Map of Singapore:** [website](https://mrtmapsingapore.com/)
 
 
 # 2. Bus System
@@ -54,7 +51,7 @@ Download from DataMall static data, [website](https://datamall.lta.gov.sg/conten
 
 ### (2) Location From citylines
 
-
+preferred
 
 ### (3)  Location From Onemap API
 
