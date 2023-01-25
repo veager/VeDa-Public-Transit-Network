@@ -5,16 +5,21 @@
 
 - **Bus**
 
+  - Bus Route
+  - Bus Stop
+  - BusRouter SG: [website](https://busrouter.sg/), [github](https://github.com/cheeaun/busrouter-sg/)
+  - Bus route data: [github](https://github.com/cheeaun/sgbusdata)
+
+
 
 - **MRT**
-
-  - **wikipedia:** [Mass Rapid Transit](en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore))
-
-  - **MRT Station List:** [LTA Transport Tools](lta.gov.sg/content/ltagov/en/map/train.html)
-
-  - **MRT Map**: [LTA Rail Network](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html)
-
-  - **MRT Map of Singapore:** [website](https://mrtmapsingapore.com/)
+- **wikipedia:** [Mass Rapid Transit](en.wikipedia.org/wiki/Mass_Rapid_Transit_(Singapore))
+  
+- **MRT Station List:** [LTA Transport Tools](lta.gov.sg/content/ltagov/en/map/train.html)
+  
+- **MRT Map**: [LTA Rail Network](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html)
+  
+- **MRT Map of Singapore:** [website](https://mrtmapsingapore.com/)
 
 
 # 2. Bus System
@@ -23,14 +28,20 @@
 
 # 3. MRT System
 
-## 1.1 Transfer Stations
+## 3.1 Evolution
 
-- Tap Out Transfer Station:
+- 31 January 2020: Thomson–East Coast line (TE), TE1~TE3
+- 28 August 2021: Thomson–East Coast line (TE), TE4~TE9
+- 13 November 2022: Thomson–East Coast line (TE), TE11~TE22
+
+## 3.2 Transfer Stations
+
+- **Tap Out** Transfer Station:
   - DT11-NS21 Newton
   - DT32-EW2 Tampines
   - BP6-DT1 Bukit Panjang
 
-## 1.2 Geospatial Location
+## 3.3 Geospatial Location
 
 ### (1) Location From DataMall static data
 
@@ -43,12 +54,14 @@ Download from DataMall static data, [website](https://datamall.lta.gov.sg/conten
 
 ### (2) Location From citylines
 
+
+
 ### (3)  Location From Onemap API
 
 
 
 
-## 1.3 Line Codes
+## 3.4 Line Codes
 
 - Download from DataMall static data: [Train Lines Codes](https://datamall.lta.gov.sg/content/dam/datamall/datasets/PublicTransportRelated/Train%20Line%20Codes.zip)
 
