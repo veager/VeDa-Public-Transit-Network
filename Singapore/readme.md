@@ -79,3 +79,12 @@ preferred
 |    SEL    | Sengkang LRT East Loop  |
 |    SWL    | Sengkang LRT West Loop  |
 |    BPL    | Bukit Panjang LRT       |
+
+
+# OpenStreetMap
+
+```powershell
+--id=3149677 (type=relation, Singapore Public Transportation)
+----id=3149676 (type=relation, Singapore Rail Network)
+----id=1152539 (type=relation, Singapore Bus Network)
+```
