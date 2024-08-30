@@ -1,0 +1,19 @@
+logs
+
+
+
+line_info
+	- sheet_name
+	- line_name
+	- line_name_zh
+	-  line_code
+	- cycle
+	- color
+
+<line_name>
+	- no
+	- name
+	- name_zh
+	- cummulative_distance
+	- station_spacing
+	- opening_date
