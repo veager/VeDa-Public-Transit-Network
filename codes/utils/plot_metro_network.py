@@ -8,13 +8,13 @@ def _sorted_labels(handles, labels):
 
     assert len(labels) == len(handles), 'Length of labels and handles should be the same.'
 
-    # label with number
-    label_num = []
-    index_num = []
-
     # label with alphabet only
     label_alp = []
     index_alp = []
+
+    # label with number
+    label_num = []
+    index_num = []
 
     for ix, l in enumerate(labels):
         if re.search(r'\d+', l) is None:
@@ -24,8 +24,16 @@ def _sorted_labels(handles, labels):
             label_num.append(l)
             index_num.append(ix)
 
-    index_alp, _ = zip(*sorted(zip(index_alp, label_alp), key=lambda x : x[1]))
-    index_num, _ = zip(*sorted(zip(index_num, label_num), key = lambda x : int(re.search(r'\d+', x[1]).group(0))))
+    # print(index_alp, index_num)
+
+    if len(index_alp) > 0:
+        index_alp, _ = zip(*sorted(zip(index_alp, label_alp), key=lambda x : x[1]))
+        index_alp = list(index_alp)
+
+    if len(index_num) > 0:
+        index_num, _ = zip(*sorted(zip(index_num, label_num), key = lambda x : int(re.search(r'\d+', x[1]).group(0))))
+        index_num = list(index_num)
+
     # sorted index
     index_sorted = index_num + index_alp
 
@@ -129,8 +137,46 @@ def plot_metro_network_integrate_from_dataframe(
     handles, labels = ax.get_legend_handles_labels()
     handles, labels = _sorted_labels(handles, labels)
     ax.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 1))
-    print(labels)
 
     return ax
 # ==============================================================================================
-#%%
+
+def plot_geographical_graph_edge(graph, x_col, y_col, label_col, color_col, ax=None):
+
+    if ax is None:
+        fig, ax = plt.subplots(1, 1, figsize=(10, 6))
+        ax.set_aspect('equal', 'box')
+
+    # plot edges
+    legend_handles = []
+    legend_labels = []
+
+    for (node_start, node_end, edge_attr) in graph.edges(data=True):
+
+        x1, y1 = graph.nodes(data=True)[node_start][x_col], graph.nodes(data=True)[node_start][y_col]
+        x2, y2 = graph.nodes(data=True)[node_end][x_col], graph.nodes(data=True)[node_end][y_col]
+
+        try:
+            color = edge_attr[color_col]
+        except:
+            color = 'grey'
+
+        try:
+            label = edge_attr[label_col]
+        except:
+            label = None
+
+        handle = ax.plot(
+            [x1, x2], [y1, y2], c=color,
+            lw=1.5, alpha=1, label=label)
+
+        if label not in legend_labels:
+            legend_handles.append(handle[0])
+            legend_labels.append(label)
+
+    handles, labels = _sorted_labels(legend_handles, legend_labels)
+
+    ax.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 1))
+
+    return ax
+# ==============================================================================================
