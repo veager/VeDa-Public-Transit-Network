@@ -1,6 +1,24 @@
+import re
+
 import tqdm
 import numpy as np
 import pandas as pd
+
+
+def _apply_location_cols(s):
+
+    loc = s['location_gcj02']
+
+    try:
+        x = float(loc.split(',')[0])
+        y = float(loc.split(',')[1])
+    except:
+        x = np.nan
+        y = np.nan
+
+    return x, y
+# ---------------------------------------------------------------------------------------------
+
 
 def load_metro_station_list(excel_path, time_status=None):
     '''
@@ -13,7 +31,6 @@ def load_metro_station_list(excel_path, time_status=None):
 
     # load metainfo of the metro lines
     line_info = pd.read_excel(excel_path, sheet_name='line_info')
-
 
     data_all = []
 
@@ -32,6 +49,10 @@ def load_metro_station_list(excel_path, time_status=None):
                          line_color = row['color'],
                          line_cycle = row['cycle'])
 
+        # process "name"
+        data['name'] = data['name'].str.replace(re.compile('\W'), '', regex=True) \
+                                   .str.lower()
+
         # time status
         if time_status in ['current']:
             data = data.query('opening_date != "u/c"')
@@ -39,6 +60,10 @@ def load_metro_station_list(excel_path, time_status=None):
         elif time_status in ['all']:
             # Check integrity of "date" columns
             pd.to_datetime(data.query('opening_date != "u/c"')['opening_date'])
+
+        # location information
+        if 'location_gcj02' in data.columns.to_list():
+            data[['x_gcj02', 'y_gcj02']] = data.apply(_apply_location_cols, axis=1, result_type='expand')
 
         # append data
         data_all.append(data)
@@ -49,3 +74,4 @@ def load_metro_station_list(excel_path, time_status=None):
 
     return data
 # =============================================================================
+#%%
