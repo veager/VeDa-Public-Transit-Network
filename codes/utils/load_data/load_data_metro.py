@@ -109,7 +109,8 @@ def load_metro_station_list_v1(excel_path, time_status=None):
 def preprocess_metro_station(data, time_status=None):
 
     # processing station name, use as unique id
-    data = data.assign(name_id = lambda x : x['station_name'].str.replace(re.compile('\W'), '', regex=True).str.lower())
+    # \W: any character that is not a letter, digit, or underscore ("_")
+    data['name_id'] = data['station_name'].str.replace(re.compile('\W'), '', regex=True).str.lower()
 
     # closed date
     if 'closed_date' in data.columns.to_list():
