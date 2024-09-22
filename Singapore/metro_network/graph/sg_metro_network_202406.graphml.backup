@@ -1,0 +1,5094 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d19" for="edge" attr.name="transfer_edge" attr.type="boolean"/>
+<key id="d18" for="edge" attr.name="travel_type" attr.type="string"/>
+<key id="d17" for="edge" attr.name="cycle" attr.type="string"/>
+<key id="d16" for="edge" attr.name="line_type" attr.type="string"/>
+<key id="d15" for="edge" attr.name="line_color" attr.type="string"/>
+<key id="d14" for="edge" attr.name="line_code" attr.type="string"/>
+<key id="d13" for="edge" attr.name="line_name" attr.type="string"/>
+<key id="d12" for="node" attr.name="cycle" attr.type="string"/>
+<key id="d11" for="node" attr.name="line_type" attr.type="string"/>
+<key id="d10" for="node" attr.name="line_code" attr.type="string"/>
+<key id="d9" for="node" attr.name="line_name" attr.type="string"/>
+<key id="d8" for="node" attr.name="lon" attr.type="double"/>
+<key id="d7" for="node" attr.name="lat" attr.type="double"/>
+<key id="d6" for="node" attr.name="y" attr.type="double"/>
+<key id="d5" for="node" attr.name="x" attr.type="double"/>
+<key id="d4" for="node" attr.name="opening_date" attr.type="string"/>
+<key id="d3" for="node" attr.name="line_color" attr.type="string"/>
+<key id="d2" for="node" attr.name="name_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="station_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="station_code" attr.type="string"/>
+<graph edgedefault="undirected"><node id="0">
+  <data key="d0">BP1</data>
+  <data key="d1">Choa Chu Kang</data>
+  <data key="d2">choachukang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">18119.8205469949</data>
+  <data key="d6">40744.9184182286</data>
+  <data key="d7">1.38475541089131</data>
+  <data key="d8">103.74453769781</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="1">
+  <data key="d0">BP2</data>
+  <data key="d1">South View</data>
+  <data key="d2">southview</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">18203.72427563</data>
+  <data key="d6">40252.0686228592</data>
+  <data key="d7">1.38029828742399</data>
+  <data key="d8">103.745291799824</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="2">
+  <data key="d0">BP3</data>
+  <data key="d1">Keat Hong</data>
+  <data key="d2">keathong</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">18622.5893422375</data>
+  <data key="d6">40064.6246900782</data>
+  <data key="d7">1.3786032506373</data>
+  <data key="d8">103.749055668925</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="3">
+  <data key="d0">BP4</data>
+  <data key="d1">Teck Whye</data>
+  <data key="d2">teckwhye</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">19140.8000152688</data>
+  <data key="d6">39852.4607739244</data>
+  <data key="d7">1.37668467920808</data>
+  <data key="d8">103.753712232337</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="4">
+  <data key="d0">BP5</data>
+  <data key="d1">Phoenix</data>
+  <data key="d2">phoenix</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">19617.4881601976</data>
+  <data key="d6">40065.9404090624</data>
+  <data key="d7">1.37861545104083</data>
+  <data key="d8">103.757995558346</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="5">
+  <data key="d0">BP6</data>
+  <data key="d1">Bukit Panjang</data>
+  <data key="d2">bukitpanjang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20185.8730407264</data>
+  <data key="d6">39989.791610267</data>
+  <data key="d7">1.37792694616982</data>
+  <data key="d8">103.763102931112</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="6">
+  <data key="d0">BP6</data>
+  <data key="d1">Bukit Panjang</data>
+  <data key="d2">bukitpanjang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20185.8730407264</data>
+  <data key="d6">39989.791610267</data>
+  <data key="d7">1.37792694616982</data>
+  <data key="d8">103.763102931112</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="7">
+  <data key="d0">BP7</data>
+  <data key="d1">Petir</data>
+  <data key="d2">petir</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20580.1479736092</data>
+  <data key="d6">39972.6518196631</data>
+  <data key="d7">1.37777204259082</data>
+  <data key="d8">103.766645782497</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="8">
+  <data key="d0">BP8</data>
+  <data key="d1">Pending</data>
+  <data key="d2">pending</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">21093.7792520449</data>
+  <data key="d6">39791.7041831557</data>
+  <data key="d7">1.37613574334988</data>
+  <data key="d8">103.771261175571</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="9">
+  <data key="d0">BP9</data>
+  <data key="d1">Bangkit</data>
+  <data key="d2">bangkit</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">21248.0565876467</data>
+  <data key="d6">40221.4484106153</data>
+  <data key="d7">1.38002223010088</data>
+  <data key="d8">103.772647370452</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="10">
+  <data key="d0">BP10</data>
+  <data key="d1">Fajar</data>
+  <data key="d2">fajar</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">21052.1874405267</data>
+  <data key="d6">40724.6743432153</data>
+  <data key="d7">1.38457317668026</data>
+  <data key="d8">103.770887223018</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="11">
+  <data key="d0">BP11</data>
+  <data key="d1">Segar</data>
+  <data key="d2">segar</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20908.9104285147</data>
+  <data key="d6">41079.8350806553</data>
+  <data key="d7">1.38778508663361</data>
+  <data key="d8">103.769599685249</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="12">
+  <data key="d0">BP12</data>
+  <data key="d1">Jelapang</data>
+  <data key="d2">jelapang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20345.1711083958</data>
+  <data key="d6">40964.2096878495</data>
+  <data key="d7">1.38673926997961</data>
+  <data key="d8">103.76453408646</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="13">
+  <data key="d0">BP13</data>
+  <data key="d1">Senja</data>
+  <data key="d2">senja</data>
+  <data key="d3">#748477</data>
+  <data key="d4">1999-11-06</data>
+  <data key="d5">20101.4576015575</data>
+  <data key="d6">40520.3910598382</data>
+  <data key="d7">1.38272547134453</data>
+  <data key="d8">103.76234425472</data>
+  <data key="d9">Bukit Panjang LRT</data>
+  <data key="d10">BP</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="45">
+  <data key="d0">CC1</data>
+  <data key="d1">Dhoby Ghaut</data>
+  <data key="d2">dhobyghaut</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">29443.8824096406</data>
+  <data key="d6">31252.5723822247</data>
+  <data key="d7">1.29891164362677</data>
+  <data key="d8">103.84629250696</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="46">
+  <data key="d0">CC2</data>
+  <data key="d1">Bras Basah</data>
+  <data key="d2">brasbasah</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">29930.7673842637</data>
+  <data key="d6">31025.9015965667</data>
+  <data key="d7">1.29686168649656</data>
+  <data key="d8">103.850667371637</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="47">
+  <data key="d0">CC3</data>
+  <data key="d1">Esplanade</data>
+  <data key="d2">esplanade</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">30421.9934839159</data>
+  <data key="d6">30671.6277715843</data>
+  <data key="d7">1.2936577245386</data>
+  <data key="d8">103.855081226245</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="48">
+  <data key="d0">CC4</data>
+  <data key="d1">Promenade</data>
+  <data key="d2">promenade</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">31008.3618750935</data>
+  <data key="d6">30709.2578067128</data>
+  <data key="d7">1.29399798636232</data>
+  <data key="d8">103.860350000188</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="49">
+  <data key="d0">CC5</data>
+  <data key="d1">Nicoll Highway</data>
+  <data key="d2">nicollhighway</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">31374.1649264134</data>
+  <data key="d6">31347.1528697051</data>
+  <data key="d7">1.29976684675139</data>
+  <data key="d8">103.86363696572</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="50">
+  <data key="d0">CC6</data>
+  <data key="d1">Stadium</data>
+  <data key="d2">stadium</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">32676.3477050858</data>
+  <data key="d6">31683.9407594204</data>
+  <data key="d7">1.3028124684707</data>
+  <data key="d8">103.875337711089</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="51">
+  <data key="d0">CC7</data>
+  <data key="d1">Mountbatten</data>
+  <data key="d2">mountbatten</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">33476.563426869</data>
+  <data key="d6">32058.7418466732</data>
+  <data key="d7">1.30620190525331</data>
+  <data key="d8">103.882528081052</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="52">
+  <data key="d0">CC8</data>
+  <data key="d1">Dakota</data>
+  <data key="d2">dakota</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">34204.0252977135</data>
+  <data key="d6">32318.1744557619</data>
+  <data key="d7">1.30854798388121</data>
+  <data key="d8">103.889064718377</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="53">
+  <data key="d0">CC9</data>
+  <data key="d1">Paya Lebar</data>
+  <data key="d2">payalebar</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">34559.6916920897</data>
+  <data key="d6">33280.1181892157</data>
+  <data key="d7">1.3172473854035</data>
+  <data key="d8">103.892260753884</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="54">
+  <data key="d0">CC10</data>
+  <data key="d1">MacPherson</data>
+  <data key="d2">macpherson</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">34351.6177675035</data>
+  <data key="d6">34256.5138255134</data>
+  <data key="d7">1.32607760171665</data>
+  <data key="d8">103.890391305725</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="55">
+  <data key="d0">CC11</data>
+  <data key="d1">Tai Seng</data>
+  <data key="d2">taiseng</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">34128.792347569</data>
+  <data key="d6">35258.74881576</data>
+  <data key="d7">1.33514150139202</data>
+  <data key="d8">103.888389300191</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="56">
+  <data key="d0">CC12</data>
+  <data key="d1">Bartley</data>
+  <data key="d2">bartley</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2009-05-28</data>
+  <data key="d5">33214.9339675205</data>
+  <data key="d6">36072.5255325548</data>
+  <data key="d7">1.34250117805245</data>
+  <data key="d8">103.880177899184</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="57">
+  <data key="d0">CC13</data>
+  <data key="d1">Serangoon</data>
+  <data key="d2">serangoon</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2009-05-28</data>
+  <data key="d5">32390.6852547908</data>
+  <data key="d6">36971.7545485683</data>
+  <data key="d7">1.35063361526525</data>
+  <data key="d8">103.872771660431</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="58">
+  <data key="d0">CC14</data>
+  <data key="d1">Lorong Chuan</data>
+  <data key="d2">lorongchuan</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2009-05-28</data>
+  <data key="d5">31431.4054671209</data>
+  <data key="d6">37079.9443690311</data>
+  <data key="d7">1.35161217074555</data>
+  <data key="d8">103.864151938651</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="59">
+  <data key="d0">CC15</data>
+  <data key="d1">Bishan</data>
+  <data key="d2">bishan</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2009-05-28</data>
+  <data key="d5">29760.7755471431</data>
+  <data key="d6">37047.1573323701</data>
+  <data key="d7">1.35131580146658</data>
+  <data key="d8">103.84914026532</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="60">
+  <data key="d0">CC16</data>
+  <data key="d1">Marymount</data>
+  <data key="d2">marymount</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2009-05-28</data>
+  <data key="d5">28679.3687734958</data>
+  <data key="d6">36758.7136478554</data>
+  <data key="d7">1.348707263451</data>
+  <data key="d8">103.839423132332</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="61">
+  <data key="d0">CC17</data>
+  <data key="d1">Caldecott</data>
+  <data key="d2">caldecott</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">28691.2450525351</data>
+  <data key="d6">35538.7680123672</data>
+  <data key="d7">1.33767450815619</data>
+  <data key="d8">103.839529820338</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="62">
+  <data key="d0">CC19</data>
+  <data key="d1">Botanic Gardens</data>
+  <data key="d2">botanicgardens</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">25959.6005048994</data>
+  <data key="d6">33818.1442215387</data>
+  <data key="d7">1.32211373558877</data>
+  <data key="d8">103.814984510627</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="63">
+  <data key="d0">CC20</data>
+  <data key="d1">Farrer Road</data>
+  <data key="d2">farrerroad</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">25113.2011973979</data>
+  <data key="d6">33301.2602245007</data>
+  <data key="d7">1.31743915158967</data>
+  <data key="d8">103.807379214161</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="64">
+  <data key="d0">CC21</data>
+  <data key="d1">Holland Village</data>
+  <data key="d2">hollandvillage</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">23891.2152273953</data>
+  <data key="d6">32726.4128267691</data>
+  <data key="d7">1.31224029631595</data>
+  <data key="d8">103.796399122407</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="65">
+  <data key="d0">CC22</data>
+  <data key="d1">Buona Vista</data>
+  <data key="d2">buonavista</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">23257.9930265341</data>
+  <data key="d6">32106.5630513821</data>
+  <data key="d7">1.30663450405</data>
+  <data key="d8">103.790709404436</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="66">
+  <data key="d0">CC23</data>
+  <data key="d1">one-north</data>
+  <data key="d2">onenorth</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">22896.0728127016</data>
+  <data key="d6">31346.4080956969</data>
+  <data key="d7">1.29975987493555</data>
+  <data key="d8">103.78745750525</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="67">
+  <data key="d0">CC24</data>
+  <data key="d1">Kent Ridge</data>
+  <data key="d2">kentridge</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">22575.0107144611</data>
+  <data key="d6">30657.9332947638</data>
+  <data key="d7">1.29353349887123</data>
+  <data key="d8">103.784572738173</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="68">
+  <data key="d0">CC25</data>
+  <data key="d1">Haw Par Villa</data>
+  <data key="d2">hawparvilla</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">22261.1431040755</data>
+  <data key="d6">29445.802035436</data>
+  <data key="d7">1.28257135772488</data>
+  <data key="d8">103.781752725064</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="69">
+  <data key="d0">CC26</data>
+  <data key="d1">Pasir Panjang</data>
+  <data key="d2">pasirpanjang</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">23329.2647148455</data>
+  <data key="d6">28742.7657615561</data>
+  <data key="d7">1.27621352233766</data>
+  <data key="d8">103.791350313288</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="70">
+  <data key="d0">CC27</data>
+  <data key="d1">Labrador Park</data>
+  <data key="d2">labradorpark</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">24584.7750495933</data>
+  <data key="d6">28304.9440988898</data>
+  <data key="d7">1.27225417749656</data>
+  <data key="d8">103.802631578766</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="71">
+  <data key="d0">CC28</data>
+  <data key="d1">Telok Blangah</data>
+  <data key="d2">telokblangah</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">25378.2908018399</data>
+  <data key="d6">28133.7990515903</data>
+  <data key="d7">1.27070647717762</data>
+  <data key="d8">103.809761611219</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="72">
+  <data key="d0">CC29</data>
+  <data key="d1">HarbourFront</data>
+  <data key="d2">harbourfront</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2011-10-08</data>
+  <data key="d5">26688.0367021402</data>
+  <data key="d6">27545.8534260485</data>
+  <data key="d7">1.26538938374901</data>
+  <data key="d8">103.821530157095</data>
+  <data key="d9">Circle Line</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="73">
+  <data key="d0">CC4</data>
+  <data key="d1">Promenade</data>
+  <data key="d2">promenade</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2010-04-17</data>
+  <data key="d5">31008.3618750935</data>
+  <data key="d6">30709.2578067128</data>
+  <data key="d7">1.29399798636232</data>
+  <data key="d8">103.860350000188</data>
+  <data key="d9">Circle Line Extension</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="74">
+  <data key="d0">CE1</data>
+  <data key="d1">Bayfront</data>
+  <data key="d2">bayfront</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2012-01-14</data>
+  <data key="d5">30867.0092712184</data>
+  <data key="d6">29368.6250332333</data>
+  <data key="d7">1.28187378879209</data>
+  <data key="d8">103.859079764874</data>
+  <data key="d9">Circle Line Extension</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="75">
+  <data key="d0">CE2</data>
+  <data key="d1">Marina Bay</data>
+  <data key="d2">marinabay</data>
+  <data key="d3">#fa9e0d</data>
+  <data key="d4">2012-01-14</data>
+  <data key="d5">30462.7349769669</data>
+  <data key="d6">28746.9336326458</data>
+  <data key="d7">1.27625146423743</data>
+  <data key="d8">103.855447156279</data>
+  <data key="d9">Circle Line Extension</data>
+  <data key="d10">CCL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="143">
+  <data key="d0">CG</data>
+  <data key="d1">Tanah Merah</data>
+  <data key="d2">tanahmerah</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">40579.0997793637</data>
+  <data key="d6">34379.4316836372</data>
+  <data key="d7">1.32718729074675</data>
+  <data key="d8">103.946348600798</data>
+  <data key="d9">Changi Extension</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="144">
+  <data key="d0">CG1</data>
+  <data key="d1">Expo</data>
+  <data key="d2">expo</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2001-01-10</data>
+  <data key="d5">42270.6232344816</data>
+  <data key="d6">35193.6223453786</data>
+  <data key="d7">1.33454977824817</data>
+  <data key="d8">103.961548211018</data>
+  <data key="d9">Changi Extension</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="145">
+  <data key="d0">CG2</data>
+  <data key="d1">Changi Airport</data>
+  <data key="d2">changiairport</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2002-02-08</data>
+  <data key="d5">45201.320394692</data>
+  <data key="d6">37729.1933764666</data>
+  <data key="d7">1.35747897447692</data>
+  <data key="d8">103.98788356959</data>
+  <data key="d9">Changi Extension</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="76">
+  <data key="d0">DT1</data>
+  <data key="d1">Bukit Panjang</data>
+  <data key="d2">bukitpanjang</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">20011.3981217332</data>
+  <data key="d6">40108.6837660205</data>
+  <data key="d7">1.37900211641036</data>
+  <data key="d8">103.761535114929</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="77">
+  <data key="d0">DT2</data>
+  <data key="d1">Cashew</data>
+  <data key="d2">cashew</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">20334.5589111606</data>
+  <data key="d6">39092.8585418891</data>
+  <data key="d7">1.36981544925552</data>
+  <data key="d8">103.76443921414</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="78">
+  <data key="d0">DT3</data>
+  <data key="d1">Hillview</data>
+  <data key="d2">hillview</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">20666.0675499607</data>
+  <data key="d6">38266.7898455672</data>
+  <data key="d7">1.36234486803558</data>
+  <data key="d8">103.767418254007</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="79">
+  <data key="d0">DT5</data>
+  <data key="d1">Beauty World</data>
+  <data key="d2">beautyworld</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">21598.1664763764</data>
+  <data key="d6">35931.2358860858</data>
+  <data key="d7">1.34122317558549</data>
+  <data key="d8">103.775794285083</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="80">
+  <data key="d0">DT6</data>
+  <data key="d1">King Albert Park</data>
+  <data key="d2">kingalbertpark</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">22444.4895690959</data>
+  <data key="d6">35316.2479055841</data>
+  <data key="d7">1.33566161262214</data>
+  <data key="d8">103.783399113441</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="81">
+  <data key="d0">DT7</data>
+  <data key="d1">Sixth Avenue</data>
+  <data key="d2">sixthavenue</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">23947.7493738988</data>
+  <data key="d6">34785.0233010761</data>
+  <data key="d7">1.33085764536226</data>
+  <data key="d8">103.796906838288</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="82">
+  <data key="d0">DT8</data>
+  <data key="d1">Tan Kah Kee</data>
+  <data key="d2">tankahkee</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">25155.6221095249</data>
+  <data key="d6">34198.8053115103</data>
+  <data key="d7">1.32555623519898</data>
+  <data key="d8">103.807760304729</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="83">
+  <data key="d0">DT9</data>
+  <data key="d1">Botanic Gardens</data>
+  <data key="d2">botanicgardens</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">26074.1720875856</data>
+  <data key="d6">33859.5354773961</data>
+  <data key="d7">1.32248807089544</data>
+  <data key="d8">103.816013994259</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="84">
+  <data key="d0">DT10</data>
+  <data key="d1">Stevens</data>
+  <data key="d2">stevens</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">27188.2299643802</data>
+  <data key="d6">33591.6608552355</data>
+  <data key="d7">1.32006555750626</data>
+  <data key="d8">103.826024401924</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="85">
+  <data key="d0">DT11</data>
+  <data key="d1">Newton</data>
+  <data key="d2">newton</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">28489.236438402</data>
+  <data key="d6">32920.1726889089</data>
+  <data key="d7">1.31399286264569</data>
+  <data key="d8">103.837714613091</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="86">
+  <data key="d0">DT12</data>
+  <data key="d1">Little India</data>
+  <data key="d2">littleindia</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">29707.4618838392</data>
+  <data key="d6">32148.9626245815</data>
+  <data key="d7">1.30701826765224</data>
+  <data key="d8">103.848660935092</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="87">
+  <data key="d0">DT13</data>
+  <data key="d1">Rochor</data>
+  <data key="d2">rochor</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2015-12-27</data>
+  <data key="d5">30164.7018503863</data>
+  <data key="d6">31798.8766778279</data>
+  <data key="d7">1.30385218527656</data>
+  <data key="d8">103.852769428884</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="88">
+  <data key="d0">DT14</data>
+  <data key="d1">Bugis</data>
+  <data key="d2">bugis</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">30649.548609254</data>
+  <data key="d6">31297.0167393312</data>
+  <data key="d7">1.29931350344582</data>
+  <data key="d8">103.857125959023</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="89">
+  <data key="d0">DT15</data>
+  <data key="d1">Promenade</data>
+  <data key="d2">promenade</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">31068.6608139481</data>
+  <data key="d6">30586.9369543009</data>
+  <data key="d7">1.29289175383295</data>
+  <data key="d8">103.860891800025</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="90">
+  <data key="d0">DT16</data>
+  <data key="d1">Bayfront</data>
+  <data key="d2">bayfront</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">30867.0092712184</data>
+  <data key="d6">29368.6250332333</data>
+  <data key="d7">1.28187378879209</data>
+  <data key="d8">103.859079764874</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="91">
+  <data key="d0">DT17</data>
+  <data key="d1">Downtown</data>
+  <data key="d2">downtown</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">30172.6688074525</data>
+  <data key="d6">29100.2087655049</data>
+  <data key="d7">1.27944638178916</data>
+  <data key="d8">103.852840829581</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="92">
+  <data key="d0">DT18</data>
+  <data key="d1">Telok Ayer</data>
+  <data key="d2">telokayer</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">29706.1259155739</data>
+  <data key="d6">29390.1953907572</data>
+  <data key="d7">1.28206894769394</data>
+  <data key="d8">103.848648781083</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="93">
+  <data key="d0">DT19</data>
+  <data key="d1">Chinatown</data>
+  <data key="d2">chinatown</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2013-12-22</data>
+  <data key="d5">29316.0490006926</data>
+  <data key="d6">29628.4789423887</data>
+  <data key="d7">1.28422391919085</data>
+  <data key="d8">103.845143798953</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="94">
+  <data key="d0">DT20</data>
+  <data key="d1">Fort Canning</data>
+  <data key="d2">fortcanning</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">29225.6276065866</data>
+  <data key="d6">30541.6087720692</data>
+  <data key="d7">1.29248194822996</data>
+  <data key="d8">103.844331362465</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="95">
+  <data key="d0">DT21</data>
+  <data key="d1">Bencoolen</data>
+  <data key="d2">bencoolen</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">29895.8639496444</data>
+  <data key="d6">31253.3258734122</data>
+  <data key="d7">1.29891843369422</data>
+  <data key="d8">103.850353762717</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="96">
+  <data key="d0">DT22</data>
+  <data key="d1">Jalan Besar</data>
+  <data key="d2">jalanbesar</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">30445.8529787809</data>
+  <data key="d6">31944.7496234626</data>
+  <data key="d7">1.3051713878069</data>
+  <data key="d8">103.855295713435</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="97">
+  <data key="d0">DT23</data>
+  <data key="d1">Bendemeer</data>
+  <data key="d2">bendemeer</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">31300.7676084097</data>
+  <data key="d6">32884.7709222045</data>
+  <data key="d7">1.31367252847691</data>
+  <data key="d8">103.862977620945</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="98">
+  <data key="d0">DT24</data>
+  <data key="d1">Geylang Bahru</data>
+  <data key="d2">geylangbahru</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">32262.8612591857</data>
+  <data key="d6">33728.3126899004</data>
+  <data key="d7">1.32130110228321</data>
+  <data key="d8">103.871622627142</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="99">
+  <data key="d0">DT25</data>
+  <data key="d1">Mattar</data>
+  <data key="d2">mattar</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">33556.5834402461</data>
+  <data key="d6">34344.8585332558</data>
+  <data key="d7">1.32687671501334</data>
+  <data key="d8">103.883247509542</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="100">
+  <data key="d0">DT26</data>
+  <data key="d1">MacPherson</data>
+  <data key="d2">macpherson</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">34230.0104828067</data>
+  <data key="d6">34264.5435281098</data>
+  <data key="d7">1.32615024457361</data>
+  <data key="d8">103.889298600376</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="101">
+  <data key="d0">DT27</data>
+  <data key="d1">Ubi</data>
+  <data key="d2">ubi</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">35334.8918333696</data>
+  <data key="d6">34687.4109907392</data>
+  <data key="d7">1.32997425973974</data>
+  <data key="d8">103.899226655439</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="102">
+  <data key="d0">DT28</data>
+  <data key="d1">Kaki Bukit</data>
+  <data key="d2">kakibukit</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">36362.3782825153</data>
+  <data key="d6">35239.5522551257</data>
+  <data key="d7">1.33496735995428</data>
+  <data key="d8">103.908459338046</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="103">
+  <data key="d0">DT29</data>
+  <data key="d1">Bedok North</data>
+  <data key="d2">bedoknorth</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">37421.7438196167</data>
+  <data key="d6">35214.6803870108</data>
+  <data key="d7">1.33474211664091</data>
+  <data key="d8">103.91797832995</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="104">
+  <data key="d0">DT30</data>
+  <data key="d1">Bedok Reservoir</data>
+  <data key="d2">bedokreservoir</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">39008.3131622663</data>
+  <data key="d6">35421.0408713054</data>
+  <data key="d7">1.33660782955099</data>
+  <data key="d8">103.932234623286</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="105">
+  <data key="d0">DT31</data>
+  <data key="d1">Tampines West</data>
+  <data key="d2">tampineswest</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">39698.5275852969</data>
+  <data key="d6">36406.0143331178</data>
+  <data key="d7">1.34551530560119</data>
+  <data key="d8">103.938436971222</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="106">
+  <data key="d0">DT32</data>
+  <data key="d1">Tampines</data>
+  <data key="d2">tampines</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">40207.3952279184</data>
+  <data key="d6">37471.4394600224</data>
+  <data key="d7">1.35515041120473</data>
+  <data key="d8">103.943009883131</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="107">
+  <data key="d0">DT33</data>
+  <data key="d1">Tampines East</data>
+  <data key="d2">tampineseast</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">41501.0748521937</data>
+  <data key="d6">37586.6177644413</data>
+  <data key="d7">1.35619148271544</data>
+  <data key="d8">103.9546344625</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="108">
+  <data key="d0">DT34</data>
+  <data key="d1">Upper Changi</data>
+  <data key="d2">upperchangi</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">42262.187971171</data>
+  <data key="d6">35988.6568845119</data>
+  <data key="d7">1.34173977444995</data>
+  <data key="d8">103.961472788634</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="109">
+  <data key="d0">DT35</data>
+  <data key="d1">Expo</data>
+  <data key="d2">expo</data>
+  <data key="d3">#005ec4</data>
+  <data key="d4">2017-10-21</data>
+  <data key="d5">42362.6034600167</data>
+  <data key="d6">35285.7083877847</data>
+  <data key="d7">1.33538252614956</data>
+  <data key="d8">103.962374747451</data>
+  <data key="d9">Downtown Line</data>
+  <data key="d10">DTL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="110">
+  <data key="d0">EW1</data>
+  <data key="d1">Pasir Ris</data>
+  <data key="d2">pasirris</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-12-16</data>
+  <data key="d5">40905.597462655</data>
+  <data key="d6">39449.9823396821</data>
+  <data key="d7">1.37304331635804</data>
+  <data key="d8">103.949284527763</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="111">
+  <data key="d0">EW2</data>
+  <data key="d1">Tampines</data>
+  <data key="d2">tampines</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-12-16</data>
+  <data key="d5">40444.9732025806</data>
+  <data key="d6">37267.0262664594</data>
+  <data key="d7">1.35330167637376</data>
+  <data key="d8">103.945144586749</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="112">
+  <data key="d0">EW3</data>
+  <data key="d1">Simei</data>
+  <data key="d2">simei</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-12-16</data>
+  <data key="d5">41361.2281713123</data>
+  <data key="d6">36149.7527796105</data>
+  <data key="d7">1.34319707851829</data>
+  <data key="d8">103.953377214378</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="113">
+  <data key="d0">EW4</data>
+  <data key="d1">Tanah Merah</data>
+  <data key="d2">tanahmerah</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">40579.0997793637</data>
+  <data key="d6">34379.4316836372</data>
+  <data key="d7">1.32718729074675</data>
+  <data key="d8">103.946348600798</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="114">
+  <data key="d0">EW5</data>
+  <data key="d1">Bedok</data>
+  <data key="d2">bedok</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">38757.952049505</data>
+  <data key="d6">34024.7047772072</data>
+  <data key="d7">1.32397996868158</data>
+  <data key="d8">103.929984495066</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="115">
+  <data key="d0">EW6</data>
+  <data key="d1">Kembangan</data>
+  <data key="d2">kembangan</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">36861.9614935443</data>
+  <data key="d6">33699.3440501876</data>
+  <data key="d7">1.3210381335934</data>
+  <data key="d8">103.912947930851</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="116">
+  <data key="d0">EW7</data>
+  <data key="d1">Eunos</data>
+  <data key="d2">eunos</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">35779.9883453855</data>
+  <data key="d6">33560.5858968049</data>
+  <data key="d7">1.31978354916088</data>
+  <data key="d8">103.903225807255</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="117">
+  <data key="d0">EW8</data>
+  <data key="d1">Paya Lebar</data>
+  <data key="d2">payalebar</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">34648.7236344032</data>
+  <data key="d6">33375.6688563768</data>
+  <data key="d7">1.31811149224527</data>
+  <data key="d8">103.893060771576</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="118">
+  <data key="d0">EW9</data>
+  <data key="d1">Aljunied</data>
+  <data key="d2">aljunied</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">33518.6048692847</data>
+  <data key="d6">33190.002017457</data>
+  <data key="d7">1.3164326118157</data>
+  <data key="d8">103.882906044385</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="119">
+  <data key="d0">EW10</data>
+  <data key="d1">Kallang</data>
+  <data key="d2">kallang</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">32236.6038438473</data>
+  <data key="d6">32643.3302382641</data>
+  <data key="d7">1.31148890998818</data>
+  <data key="d8">103.871386541754</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="120">
+  <data key="d0">EW11</data>
+  <data key="d1">Lavender</data>
+  <data key="d2">lavender</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">31277.4062337531</data>
+  <data key="d6">32188.7337866109</data>
+  <data key="d7">1.30737781747063</data>
+  <data key="d8">103.862767633888</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="121">
+  <data key="d0">EW12</data>
+  <data key="d1">Bugis</data>
+  <data key="d2">bugis</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">30491.6000699066</data>
+  <data key="d6">31424.3512713723</data>
+  <data key="d7">1.30046508509717</data>
+  <data key="d8">103.855706730933</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="122">
+  <data key="d0">EW13</data>
+  <data key="d1">City Hall</data>
+  <data key="d2">cityhall</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">30144.2503791479</data>
+  <data key="d6">30591.9008128252</data>
+  <data key="d7">1.29293672227779</data>
+  <data key="d8">103.852585580366</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="123">
+  <data key="d0">EW14</data>
+  <data key="d1">Raffles Place</data>
+  <data key="d2">rafflesplace</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">30019.180527918</data>
+  <data key="d6">29617.6125848945</data>
+  <data key="d7">1.28412561043658</data>
+  <data key="d8">103.851461712342</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="124">
+  <data key="d0">EW15</data>
+  <data key="d1">Tanjong Pagar</data>
+  <data key="d2">tanjongpagar</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">29380.7567437869</data>
+  <data key="d6">28781.1883335691</data>
+  <data key="d7">1.27656131737246</data>
+  <data key="d8">103.845725186759</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="125">
+  <data key="d0">EW16</data>
+  <data key="d1">Outram Park</data>
+  <data key="d2">outrampark</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">28646.8726726929</data>
+  <data key="d6">29316.780396251</data>
+  <data key="d7">1.28140504772213</data>
+  <data key="d8">103.839130979249</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="126">
+  <data key="d0">EW17</data>
+  <data key="d1">Tiong Bahru</data>
+  <data key="d2">tiongbahru</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">27346.3322650846</data>
+  <data key="d6">29836.2044219468</data>
+  <data key="d7">1.28610253615775</data>
+  <data key="d8">103.827445112419</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="127">
+  <data key="d0">EW18</data>
+  <data key="d1">Redhill</data>
+  <data key="d2">redhill</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">26155.053497511</data>
+  <data key="d6">30226.759782847</data>
+  <data key="d7">1.28963453412887</data>
+  <data key="d8">103.81674097205</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="128">
+  <data key="d0">EW19</data>
+  <data key="d1">Queenstown</data>
+  <data key="d2">queenstown</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">24968.2673462247</data>
+  <data key="d6">30770.3911128063</data>
+  <data key="d7">1.29455085184931</data>
+  <data key="d8">103.806077155982</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="129">
+  <data key="d0">EW20</data>
+  <data key="d1">Commonwealth</data>
+  <data key="d2">commonwealth</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">24094.7951433668</data>
+  <data key="d6">31649.5989169721</data>
+  <data key="d7">1.30250199924325</data>
+  <data key="d8">103.798228523336</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="130">
+  <data key="d0">EW21</data>
+  <data key="d1">Buona Vista</data>
+  <data key="d2">buonavista</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">23207.2578019593</data>
+  <data key="d6">32171.7150982097</data>
+  <data key="d7">1.3072237082044</data>
+  <data key="d8">103.790253514502</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="131">
+  <data key="d0">EW22</data>
+  <data key="d1">Dover</data>
+  <data key="d2">dover</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2001-10-18</data>
+  <data key="d5">21914.5509301452</data>
+  <data key="d6">32634.1186314393</data>
+  <data key="d7">1.31140529320963</data>
+  <data key="d8">103.778637841909</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="132">
+  <data key="d0">EW23</data>
+  <data key="d1">Clementi</data>
+  <data key="d2">clementi</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-03-12</data>
+  <data key="d5">20418.1055078562</data>
+  <data key="d6">33044.4944669213</data>
+  <data key="d7">1.31511625277378</data>
+  <data key="d8">103.765191452888</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="133">
+  <data key="d0">EW24</data>
+  <data key="d1">Jurong East</data>
+  <data key="d2">jurongeast</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-11-05</data>
+  <data key="d5">17869.0570516568</data>
+  <data key="d6">35038.9688695427</data>
+  <data key="d7">1.33315281585758</data>
+  <data key="d8">103.742286332403</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="134">
+  <data key="d0">EW25</data>
+  <data key="d1">Chinese Garden</data>
+  <data key="d2">chinesegarden</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-11-05</data>
+  <data key="d5">16790.7466322081</data>
+  <data key="d6">36056.3018932827</data>
+  <data key="d7">1.34235282081401</data>
+  <data key="d8">103.732596738363</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="135">
+  <data key="d0">EW26</data>
+  <data key="d1">Lakeside</data>
+  <data key="d2">lakeside</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1988-11-05</data>
+  <data key="d5">15494.4969534362</data>
+  <data key="d6">36267.1470333859</data>
+  <data key="d7">1.34425911493819</data>
+  <data key="d8">103.720949087456</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="136">
+  <data key="d0">EW27</data>
+  <data key="d1">Boon Lay</data>
+  <data key="d2">boonlay</data>
+  <data key="d3">#009645</data>
+  <data key="d4">1990-07-06</data>
+  <data key="d5">13837.9827195406</data>
+  <data key="d6">35641.9191215802</data>
+  <data key="d7">1.33860405469845</data>
+  <data key="d8">103.706064622772</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="137">
+  <data key="d0">EW28</data>
+  <data key="d1">Pioneer</data>
+  <data key="d2">pioneer</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2009-02-28</data>
+  <data key="d5">12864.9698331021</data>
+  <data key="d6">35529.5115483906</data>
+  <data key="d7">1.33758701106708</data>
+  <data key="d8">103.697321608474</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="138">
+  <data key="d0">EW29</data>
+  <data key="d1">Joo Koon</data>
+  <data key="d2">jookoon</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2009-02-28</data>
+  <data key="d5">10756.3379743481</data>
+  <data key="d6">34438.2617777772</data>
+  <data key="d7">1.3277170408447</data>
+  <data key="d8">103.678374996165</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="139">
+  <data key="d0">EW30</data>
+  <data key="d1">Gul Circle</data>
+  <data key="d2">gulcircle</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2017-06-18</data>
+  <data key="d5">8770.35150132887</data>
+  <data key="d6">33526.5733700171</data>
+  <data key="d7">1.31947090075208</data>
+  <data key="d8">103.660530461345</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="140">
+  <data key="d0">EW31</data>
+  <data key="d1">Tuas Crescent</data>
+  <data key="d2">tuascrescent</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2017-06-18</data>
+  <data key="d5">7495.83786702435</data>
+  <data key="d6">33698.7263109088</data>
+  <data key="d7">1.32102695598684</data>
+  <data key="d8">103.649078235627</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="141">
+  <data key="d0">EW32</data>
+  <data key="d1">Tuas West Road</data>
+  <data key="d2">tuaswestroad</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2017-06-18</data>
+  <data key="d5">6442.92861192208</data>
+  <data key="d6">34689.3517738562</data>
+  <data key="d7">1.32998504653102</data>
+  <data key="d8">103.639616648771</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="142">
+  <data key="d0">EW33</data>
+  <data key="d1">Tuas Link</data>
+  <data key="d2">tuaslink</data>
+  <data key="d3">#009645</data>
+  <data key="d4">2017-06-18</data>
+  <data key="d5">6150.86278806347</data>
+  <data key="d6">35894.3582222275</data>
+  <data key="d7">1.34088242451105</data>
+  <data key="d8">103.636991425128</data>
+  <data key="d9">East-West Line</data>
+  <data key="d10">EWL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="146">
+  <data key="d0">NE1</data>
+  <data key="d1">HarbourFront</data>
+  <data key="d2">harbourfront</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">26688.0367021402</data>
+  <data key="d6">27545.8534260485</data>
+  <data key="d7">1.26538938374901</data>
+  <data key="d8">103.821530157095</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="147">
+  <data key="d0">NE3</data>
+  <data key="d1">Outram Park</data>
+  <data key="d2">outrampark</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">28681.2492930563</data>
+  <data key="d6">29130.5222722683</data>
+  <data key="d7">1.27972059383553</data>
+  <data key="d8">103.839439862425</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="148">
+  <data key="d0">NE4</data>
+  <data key="d1">Chinatown</data>
+  <data key="d2">chinatown</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">29124.9480295833</data>
+  <data key="d6">29643.4802091382</data>
+  <data key="d7">1.28435959278583</data>
+  <data key="d8">103.843426681863</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="149">
+  <data key="d0">NE5</data>
+  <data key="d1">Clarke Quay</data>
+  <data key="d2">clarkequay</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">29473.1249443376</data>
+  <data key="d6">30088.7037861496</data>
+  <data key="d7">1.28838602407588</data>
+  <data key="d8">103.846555209694</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="150">
+  <data key="d0">NE6</data>
+  <data key="d1">Dhoby Ghaut</data>
+  <data key="d2">dhobyghaut</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">29354.4079191377</data>
+  <data key="d6">31340.2508916464</data>
+  <data key="d7">1.29970458121203</data>
+  <data key="d8">103.845488542541</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="151">
+  <data key="d0">NE7</data>
+  <data key="d1">Little India</data>
+  <data key="d2">littleindia</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">29817.2085683132</data>
+  <data key="d6">32124.850180177</data>
+  <data key="d7">1.30680019696174</data>
+  <data key="d8">103.849647059738</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="152">
+  <data key="d0">NE8</data>
+  <data key="d1">Farrer Park</data>
+  <data key="d2">farrerpark</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">30243.5206485614</data>
+  <data key="d6">32689.3795552086</data>
+  <data key="d7">1.31190557325774</data>
+  <data key="d8">103.853477716509</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="153">
+  <data key="d0">NE9</data>
+  <data key="d1">Boon Keng</data>
+  <data key="d2">boonkeng</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">31144.045013207</data>
+  <data key="d6">33510.9746132698</data>
+  <data key="d7">1.31933570922514</data>
+  <data key="d8">103.861569454156</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="154">
+  <data key="d0">NE10</data>
+  <data key="d1">Potong Pasir</data>
+  <data key="d2">potongpasir</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">31977.1667550961</data>
+  <data key="d6">34842.7250955887</data>
+  <data key="d7">1.33137949021368</data>
+  <data key="d8">103.869055656782</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="155">
+  <data key="d0">NE11</data>
+  <data key="d1">Woodleigh</data>
+  <data key="d2">woodleigh</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2011-06-20</data>
+  <data key="d5">32173.3185749156</data>
+  <data key="d6">35706.3793633711</data>
+  <data key="d7">1.33919004519388</data>
+  <data key="d8">103.87081830915</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="156">
+  <data key="d0">NE12</data>
+  <data key="d1">Serangoon</data>
+  <data key="d2">serangoon</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">32480.0729367165</data>
+  <data key="d6">36869.3930099793</data>
+  <data key="d7">1.34970788089564</data>
+  <data key="d8">103.873574849884</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="157">
+  <data key="d0">NE13</data>
+  <data key="d1">Kovan</data>
+  <data key="d2">kovan</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">33758.7578018578</data>
+  <data key="d6">38027.2794417515</data>
+  <data key="d7">1.36017917065237</data>
+  <data key="d8">103.885064856353</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="158">
+  <data key="d0">NE14</data>
+  <data key="d1">Hougang</data>
+  <data key="d2">hougang</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">34572.8752453458</data>
+  <data key="d6">39256.1282835789</data>
+  <data key="d7">1.37129226620797</data>
+  <data key="d8">103.892380513029</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="159">
+  <data key="d0">NE15</data>
+  <data key="d1">Buangkok</data>
+  <data key="d2">buangkok</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2006-01-15</data>
+  <data key="d5">34655.4250568021</data>
+  <data key="d6">40536.3401684985</data>
+  <data key="d7">1.38287001971672</data>
+  <data key="d8">103.893122569706</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="160">
+  <data key="d0">NE16</data>
+  <data key="d1">Sengkang</data>
+  <data key="d2">sengkang</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">34918.2740132138</data>
+  <data key="d6">41512.1276907362</data>
+  <data key="d7">1.39169462601522</data>
+  <data key="d8">103.895484694279</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="161">
+  <data key="d0">NE17</data>
+  <data key="d1">Punggol</data>
+  <data key="d2">punggol</data>
+  <data key="d3">#9900aa</data>
+  <data key="d4">2003-06-20</data>
+  <data key="d5">35651.382800173</data>
+  <data key="d6">42933.2482692804</data>
+  <data key="d7">1.40454653668991</data>
+  <data key="d8">103.902072622229</data>
+  <data key="d9">North East Line</data>
+  <data key="d10">NEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="162">
+  <data key="d0">NS1</data>
+  <data key="d1">Jurong East</data>
+  <data key="d2">jurongeast</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1988-11-05</data>
+  <data key="d5">17869.0570516568</data>
+  <data key="d6">35038.9688695427</data>
+  <data key="d7">1.33315281585758</data>
+  <data key="d8">103.742286332403</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="163">
+  <data key="d0">NS2</data>
+  <data key="d1">Bukit Batok</data>
+  <data key="d2">bukitbatok</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1990-03-10</data>
+  <data key="d5">18679.3223191258</data>
+  <data key="d6">36794.9260214306</data>
+  <data key="d7">1.34903331201636</data>
+  <data key="d8">103.749566478309</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="164">
+  <data key="d0">NS3</data>
+  <data key="d1">Bukit Gombak</data>
+  <data key="d2">bukitgombak</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1990-03-10</data>
+  <data key="d5">18926.9127006577</data>
+  <data key="d6">37854.0358848721</data>
+  <data key="d7">1.35861159094192</data>
+  <data key="d8">103.751790910733</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="165">
+  <data key="d0">NS4</data>
+  <data key="d1">Choa Chu Kang</data>
+  <data key="d2">choachukang</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1990-03-10</data>
+  <data key="d5">18101.2472041463</data>
+  <data key="d6">40812.1216052417</data>
+  <data key="d7">1.38536316540225</data>
+  <data key="d8">103.744370779756</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="166">
+  <data key="d0">NS5</data>
+  <data key="d1">Yew Tee</data>
+  <data key="d2">yewtee</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1990-03-10</data>
+  <data key="d5">18438.9831173802</data>
+  <data key="d6">42158.0181021616</data>
+  <data key="d7">1.39753506936297</data>
+  <data key="d8">103.747405150236</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="167">
+  <data key="d0">NS7</data>
+  <data key="d1">Kranji</data>
+  <data key="d2">kranji</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1996-02-10</data>
+  <data key="d5">20078.5865077013</data>
+  <data key="d6">45204.5168451127</data>
+  <data key="d7">1.42508698073648</data>
+  <data key="d8">103.762137459497</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="168">
+  <data key="d0">NS8</data>
+  <data key="d1">Marsiling</data>
+  <data key="d2">marsiling</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1996-02-10</data>
+  <data key="d5">21407.0413211482</data>
+  <data key="d6">46026.5125302058</data>
+  <data key="d7">1.43252114855026</data>
+  <data key="d8">103.774074641403</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="169">
+  <data key="d0">NS9</data>
+  <data key="d1">Woodlands</data>
+  <data key="d2">woodlands</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1996-02-10</data>
+  <data key="d5">22741.5981903812</data>
+  <data key="d6">46501.7861009166</data>
+  <data key="d7">1.43681962961519</data>
+  <data key="d8">103.786066799253</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="170">
+  <data key="d0">NS10</data>
+  <data key="d1">Admiralty</data>
+  <data key="d2">admiralty</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1996-02-10</data>
+  <data key="d5">24402.3866267931</data>
+  <data key="d6">46918.506801948</data>
+  <data key="d7">1.44058856161847</data>
+  <data key="d8">103.800990519771</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="171">
+  <data key="d0">NS11</data>
+  <data key="d1">Sembawang</data>
+  <data key="d2">sembawang</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1996-02-10</data>
+  <data key="d5">26522.9882623879</data>
+  <data key="d6">47854.1998395547</data>
+  <data key="d7">1.44905082158502</data>
+  <data key="d8">103.820046140211</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="172">
+  <data key="d0">NS12</data>
+  <data key="d1">Canberra</data>
+  <data key="d2">canberra</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">2019-11-02</data>
+  <data key="d5">27597.5969376964</data>
+  <data key="d6">47193.6008830499</data>
+  <data key="d7">1.44307664075699</data>
+  <data key="d8">103.829702590959</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="173">
+  <data key="d0">NS13</data>
+  <data key="d1">Yishun</data>
+  <data key="d2">yishun</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1988-12-20</data>
+  <data key="d5">28187.6788169928</data>
+  <data key="d6">45686.0705381557</data>
+  <data key="d7">1.42944308477331</data>
+  <data key="d8">103.835005047246</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="174">
+  <data key="d0">NS14</data>
+  <data key="d1">Khatib</data>
+  <data key="d2">khatib</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1988-12-20</data>
+  <data key="d5">27962.3108561579</data>
+  <data key="d6">44352.5679935999</data>
+  <data key="d7">1.41738337009565</data>
+  <data key="d8">103.832979908243</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="175">
+  <data key="d0">NS15</data>
+  <data key="d1">Yio Chu Kang</data>
+  <data key="d2">yiochukang</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-11-07</data>
+  <data key="d5">29294.1262330338</data>
+  <data key="d6">40413.0626359228</data>
+  <data key="d7">1.38175587099132</data>
+  <data key="d8">103.84494727118</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="176">
+  <data key="d0">NS16</data>
+  <data key="d1">Ang Mo Kio</data>
+  <data key="d2">angmokio</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-11-07</data>
+  <data key="d5">29807.2611468043</data>
+  <data key="d6">39105.7359950263</data>
+  <data key="d7">1.36993284962262</data>
+  <data key="d8">103.84955809232</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="177">
+  <data key="d0">NS17</data>
+  <data key="d1">Bishan</data>
+  <data key="d2">bishan</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-11-07</data>
+  <data key="d5">29649.8988074977</data>
+  <data key="d6">36994.4330169763</data>
+  <data key="d7">1.35083898784737</data>
+  <data key="d8">103.848143964542</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="178">
+  <data key="d0">NS18</data>
+  <data key="d1">Braddell</data>
+  <data key="d2">braddell</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-11-07</data>
+  <data key="d5">29500.2349482412</data>
+  <data key="d6">35847.7719815206</data>
+  <data key="d7">1.3404690010277</data>
+  <data key="d8">103.846799083148</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="179">
+  <data key="d0">NS19</data>
+  <data key="d1">Toa Payoh</data>
+  <data key="d2">toapayoh</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-11-07</data>
+  <data key="d5">29578.4890669128</data>
+  <data key="d6">34980.8962922301</data>
+  <data key="d7">1.33262928096888</data>
+  <data key="d8">103.847502198048</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="180">
+  <data key="d0">NS20</data>
+  <data key="d1">Novena</data>
+  <data key="d2">novena</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">29169.3297925005</data>
+  <data key="d6">33633.1535391063</data>
+  <data key="d7">1.32044079120154</data>
+  <data key="d8">103.843825618748</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="181">
+  <data key="d0">NS21</data>
+  <data key="d1">Newton</data>
+  <data key="d2">newton</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">28519.2830723543</data>
+  <data key="d6">32735.0770371091</data>
+  <data key="d7">1.3123189224097</data>
+  <data key="d8">103.837984594021</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="182">
+  <data key="d0">NS22</data>
+  <data key="d1">Orchard</data>
+  <data key="d2">orchard</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">27880.5476490632</data>
+  <data key="d6">31813.0165782962</data>
+  <data key="d7">1.30398013681715</data>
+  <data key="d8">103.832245244375</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="183">
+  <data key="d0">NS23</data>
+  <data key="d1">Somerset</data>
+  <data key="d2">somerset</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">28641.8346576076</data>
+  <data key="d6">31402.1245223526</data>
+  <data key="d7">1.30026416739006</data>
+  <data key="d8">103.839085753124</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="184">
+  <data key="d0">NS24</data>
+  <data key="d1">Dhoby Ghaut</data>
+  <data key="d2">dhobyghaut</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">29423.9804536467</data>
+  <data key="d6">31229.3163704202</data>
+  <data key="d7">1.29870132536119</data>
+  <data key="d8">103.846113677951</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="185">
+  <data key="d0">NS25</data>
+  <data key="d1">City Hall</data>
+  <data key="d2">cityhall</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">30144.2503791479</data>
+  <data key="d6">30591.9008128252</data>
+  <data key="d7">1.29293672227779</data>
+  <data key="d8">103.852585580366</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="186">
+  <data key="d0">NS26</data>
+  <data key="d1">Raffles Place</data>
+  <data key="d2">rafflesplace</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1987-12-12</data>
+  <data key="d5">30019.180527918</data>
+  <data key="d6">29617.6125848945</data>
+  <data key="d7">1.28412561043658</data>
+  <data key="d8">103.851461712342</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="187">
+  <data key="d0">NS27</data>
+  <data key="d1">Marina Bay</data>
+  <data key="d2">marinabay</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">1989-11-04</data>
+  <data key="d5">30367.9547207942</data>
+  <data key="d6">28764.4959340338</data>
+  <data key="d7">1.276410298755</data>
+  <data key="d8">103.854595522263</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="188">
+  <data key="d0">NS28</data>
+  <data key="d1">Marina South Pier</data>
+  <data key="d2">marinasouthpier</data>
+  <data key="d3">#d42e12</data>
+  <data key="d4">2014-11-23</data>
+  <data key="d5">31241.8260070179</data>
+  <data key="d6">28169.2510934137</data>
+  <data key="d7">1.27102703612006</data>
+  <data key="d8">103.862447515736</data>
+  <data key="d9">North-South Line</data>
+  <data key="d10">NSL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="14">
+  <data key="d0">PTC</data>
+  <data key="d1">Punggol</data>
+  <data key="d2">punggol</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">35689.1389922583</data>
+  <data key="d6">43004.9202214088</data>
+  <data key="d7">1.40519470149606</data>
+  <data key="d8">103.902411911915</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="15">
+  <data key="d0">PE1</data>
+  <data key="d1">Cove</data>
+  <data key="d2">cove</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">36084.2289814064</data>
+  <data key="d6">42351.133770803</data>
+  <data key="d7">1.39928198837342</data>
+  <data key="d8">103.905961941214</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="16">
+  <data key="d0">PE2</data>
+  <data key="d1">Meridian</data>
+  <data key="d2">meridian</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">36416.793337211</data>
+  <data key="d6">42089.08824775</data>
+  <data key="d7">1.3969120498774</data>
+  <data key="d8">103.908950224489</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="17">
+  <data key="d0">PE3</data>
+  <data key="d1">Coral Edge</data>
+  <data key="d2">coraledge</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">36820.844465619</data>
+  <data key="d6">41757.0644781347</data>
+  <data key="d7">1.39390922863313</data>
+  <data key="d8">103.912580845515</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="18">
+  <data key="d0">PE4</data>
+  <data key="d1">Riviera</data>
+  <data key="d2">riviera</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">37220.1990320655</data>
+  <data key="d6">41824.5905639976</data>
+  <data key="d7">1.39451978540251</data>
+  <data key="d8">103.916169381157</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="19">
+  <data key="d0">PE5</data>
+  <data key="d1">Kadaloor</data>
+  <data key="d2">kadaloor</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">37265.3166702027</data>
+  <data key="d6">42376.2865863442</data>
+  <data key="d7">1.39950910636258</data>
+  <data key="d8">103.916574974234</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="20">
+  <data key="d0">PE6</data>
+  <data key="d1">Oasis</data>
+  <data key="d2">oasis</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2007-06-15</data>
+  <data key="d5">36837.1174417054</data>
+  <data key="d6">42683.4020451903</data>
+  <data key="d7">1.40228667971123</data>
+  <data key="d8">103.912727352412</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="21">
+  <data key="d0">PE7</data>
+  <data key="d1">Damai</data>
+  <data key="d2">damai</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2011-06-20</data>
+  <data key="d5">36378.1826799456</data>
+  <data key="d6">43009.3794218432</data>
+  <data key="d7">1.40523483636957</data>
+  <data key="d8">103.908603542566</data>
+  <data key="d9">Punggol LRT East Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="22">
+  <data key="d0">PTC</data>
+  <data key="d1">Punggol</data>
+  <data key="d2">punggol</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">35689.1389922583</data>
+  <data key="d6">43004.9202214088</data>
+  <data key="d7">1.40519470149606</data>
+  <data key="d8">103.902411911915</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="23">
+  <data key="d0">PW1</data>
+  <data key="d1">Sam Kee</data>
+  <data key="d2">samkee</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2016-02-29</data>
+  <data key="d5">35958.3967099339</data>
+  <data key="d6">43493.4470222741</data>
+  <data key="d7">1.40961268528804</data>
+  <data key="d8">103.904831550608</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="24">
+  <data key="d0">PW2</data>
+  <data key="d1">Teck Lee</data>
+  <data key="d2">tecklee</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2024-08-15</data>
+  <data key="d5">36152.699307289</data>
+  <data key="d6">43842.6720870361</data>
+  <data key="d7">1.4127708937463</data>
+  <data key="d8">103.906577622768</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="25">
+  <data key="d0">PW3</data>
+  <data key="d1">Punggol Point</data>
+  <data key="d2">punggolpoint</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2016-12-29</data>
+  <data key="d5">36160.8274716362</data>
+  <data key="d6">44293.556079682</data>
+  <data key="d7">1.41684852031206</data>
+  <data key="d8">103.906650789313</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="26">
+  <data key="d0">PW4</data>
+  <data key="d1">Samudera</data>
+  <data key="d2">samudera</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2017-03-31</data>
+  <data key="d5">35660.6597858425</data>
+  <data key="d6">44188.8484394047</data>
+  <data key="d7">1.41590172160383</data>
+  <data key="d8">103.902156317163</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="27">
+  <data key="d0">PW5</data>
+  <data key="d1">Nibong</data>
+  <data key="d2">nibong</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2014-06-29</data>
+  <data key="d5">35458.481398589</data>
+  <data key="d6">43741.3183814995</data>
+  <data key="d7">1.41185447744238</data>
+  <data key="d8">103.900339452055</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="28">
+  <data key="d0">PW6</data>
+  <data key="d1">Sumang</data>
+  <data key="d2">sumang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2014-06-29</data>
+  <data key="d5">35260.291393281</data>
+  <data key="d6">43365.130112553</data>
+  <data key="d7">1.40845241943079</data>
+  <data key="d8">103.898558450395</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="29">
+  <data key="d0">PW7</data>
+  <data key="d1">Soo Teck</data>
+  <data key="d2">sooteck</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2014-06-29</data>
+  <data key="d5">35119.198004419</data>
+  <data key="d6">43019.1258336715</data>
+  <data key="d7">1.40532331860455</data>
+  <data key="d8">103.897290522033</data>
+  <data key="d9">Punggol LRT West Loop</data>
+  <data key="d10">PG</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="30">
+  <data key="d0">STC</data>
+  <data key="d1">Sengkang</data>
+  <data key="d2">sengkang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">34913.5878634388</data>
+  <data key="d6">41502.6996980961</data>
+  <data key="d7">1.39160936379906</data>
+  <data key="d8">103.895442583336</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="31">
+  <data key="d0">SE1</data>
+  <data key="d1">Compassvale</data>
+  <data key="d2">compassvale</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">35475.5631351992</data>
+  <data key="d6">41821.5781126507</data>
+  <data key="d7">1.39449304450373</data>
+  <data key="d8">103.900492450944</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="32">
+  <data key="d0">SE2</data>
+  <data key="d1">Rumbia</data>
+  <data key="d2">rumbia</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">36085.5523884585</data>
+  <data key="d6">41487.1566344369</data>
+  <data key="d7">1.39146849534132</data>
+  <data key="d8">103.90597359341</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="33">
+  <data key="d0">SE3</data>
+  <data key="d1">Bakau</data>
+  <data key="d2">bakau</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">36023.4333449397</data>
+  <data key="d6">41102.9966866206</data>
+  <data key="d7">1.38799431054768</data>
+  <data key="d8">103.905415300171</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="34">
+  <data key="d0">SE4</data>
+  <data key="d1">Kangkar</data>
+  <data key="d2">kangkar</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">35668.448192073</data>
+  <data key="d6">40656.7945456952</data>
+  <data key="d7">1.38395911688913</data>
+  <data key="d8">103.90222537044</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="35">
+  <data key="d0">SE5</data>
+  <data key="d1">Ranggung</data>
+  <data key="d2">ranggung</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">35108.5940098073</data>
+  <data key="d6">40687.1253354792</data>
+  <data key="d7">1.38423355918277</data>
+  <data key="d8">103.897194667804</data>
+  <data key="d9">Sengkang LRT East Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="36">
+  <data key="d0">STC</data>
+  <data key="d1">Sengkang</data>
+  <data key="d2">sengkang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2003-01-18</data>
+  <data key="d5">34913.5878634388</data>
+  <data key="d6">41502.6996980961</data>
+  <data key="d7">1.39160936379906</data>
+  <data key="d8">103.895442583336</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="37">
+  <data key="d0">SW1</data>
+  <data key="d1">Cheng Lim</data>
+  <data key="d2">chenglim</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2013-01-01</data>
+  <data key="d5">34730.4628995238</data>
+  <data key="d6">42018.8888330311</data>
+  <data key="d7">1.39627763344324</data>
+  <data key="d8">103.893797181731</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="38">
+  <data key="d0">SW2</data>
+  <data key="d1">Farmway</data>
+  <data key="d2">farmway</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2007-11-15</data>
+  <data key="d5">34230.5208312804</data>
+  <data key="d6">42117.5715403445</data>
+  <data key="d7">1.39717019591821</data>
+  <data key="d8">103.889304824196</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="39">
+  <data key="d0">SW3</data>
+  <data key="d1">Kupang</data>
+  <data key="d2">kupang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2015-06-27</data>
+  <data key="d5">33334.8164311657</data>
+  <data key="d6">42232.8410119303</data>
+  <data key="d7">1.39821283031379</data>
+  <data key="d8">103.881256222255</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="40">
+  <data key="d0">SW4</data>
+  <data key="d1">Thanggam</data>
+  <data key="d2">thanggam</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">32709.2687078444</data>
+  <data key="d6">42133.9003911279</data>
+  <data key="d7">1.39731815581938</data>
+  <data key="d8">103.875635154729</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="41">
+  <data key="d0">SW5</data>
+  <data key="d1">Fernvale</data>
+  <data key="d2">fernvale</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">32784.2279748796</data>
+  <data key="d6">41533.229409067</data>
+  <data key="d7">1.39188589234766</data>
+  <data key="d8">103.87630862552</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="42">
+  <data key="d0">SW6</data>
+  <data key="d1">Layar</data>
+  <data key="d2">layar</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">33198.3233218081</data>
+  <data key="d6">41554.6826597638</data>
+  <data key="d7">1.39207983659997</data>
+  <data key="d8">103.880029600546</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="43">
+  <data key="d0">SW7</data>
+  <data key="d1">Tongkang</data>
+  <data key="d2">tongkang</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">33845.4132231614</data>
+  <data key="d6">41252.6175956074</data>
+  <data key="d7">1.38934794658941</data>
+  <data key="d8">103.885844150116</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="44">
+  <data key="d0">SW8</data>
+  <data key="d1">Renjong</data>
+  <data key="d2">renjong</data>
+  <data key="d3">#748477</data>
+  <data key="d4">2005-01-29</data>
+  <data key="d5">34377.0569484383</data>
+  <data key="d6">40959.8985281233</data>
+  <data key="d7">1.38670058991904</data>
+  <data key="d8">103.89062131608</data>
+  <data key="d9">Sengkang LRT West Loop</data>
+  <data key="d10">SK</data>
+  <data key="d11">LRT</data>
+  <data key="d12">T</data>
+</node>
+<node id="189">
+  <data key="d0">TE1</data>
+  <data key="d1">Woodlands North</data>
+  <data key="d2">woodlandsnorth</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2020-01-31</data>
+  <data key="d5">22699.9912448721</data>
+  <data key="d6">47770.3945726696</data>
+  <data key="d7">1.44829245259621</data>
+  <data key="d8">103.785692682441</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="190">
+  <data key="d0">TE2</data>
+  <data key="d1">Woodlands</data>
+  <data key="d2">woodlands</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2020-01-31</data>
+  <data key="d5">22949.9191319831</data>
+  <data key="d6">46417.5223346148</data>
+  <data key="d7">1.43605761708128</data>
+  <data key="d8">103.787938777173</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="191">
+  <data key="d0">TE3</data>
+  <data key="d1">Woodlands South</data>
+  <data key="d2">woodlandssouth</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2020-01-31</data>
+  <data key="d5">23542.5545697259</data>
+  <data key="d6">45459.758821588</data>
+  <data key="d7">1.42739605281442</data>
+  <data key="d8">103.79326432221</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="192">
+  <data key="d0">TE4</data>
+  <data key="d1">Springleaf</data>
+  <data key="d2">springleaf</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">26279.3279363979</data>
+  <data key="d6">42162.9344399534</data>
+  <data key="d7">1.39758106126824</data>
+  <data key="d8">103.817856949947</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="193">
+  <data key="d0">TE5</data>
+  <data key="d1">Lentor</data>
+  <data key="d2">lentor</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">28269.897072956</data>
+  <data key="d6">40827.7939434573</data>
+  <data key="d7">1.38550657972169</data>
+  <data key="d8">103.835743809669</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="194">
+  <data key="d0">TE6</data>
+  <data key="d1">Mayflower</data>
+  <data key="d2">mayflower</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">28361.5950495424</data>
+  <data key="d6">39274.947190579</data>
+  <data key="d7">1.37146318831015</data>
+  <data key="d8">103.836567766945</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="195">
+  <data key="d0">TE7</data>
+  <data key="d1">Bright Hill</data>
+  <data key="d2">brighthill</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">27952.7070973367</data>
+  <data key="d6">38370.443887597</data>
+  <data key="d7">1.36328318545185</data>
+  <data key="d8">103.832893619992</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="196">
+  <data key="d0">TE8</data>
+  <data key="d1">Upper Thomson</data>
+  <data key="d2">upperthomson</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">27953.2465030747</data>
+  <data key="d6">37390.003691975</data>
+  <data key="d7">1.35441643365401</data>
+  <data key="d8">103.832898468504</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="197">
+  <data key="d0">TE9</data>
+  <data key="d1">Caldecott</data>
+  <data key="d2">caldecott</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2021-08-28</data>
+  <data key="d5">28761.5758000361</data>
+  <data key="d6">35491.3431366347</data>
+  <data key="d7">1.33724561271722</data>
+  <data key="d8">103.840161782075</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="198">
+  <data key="d0">TE11</data>
+  <data key="d1">Stevens</data>
+  <data key="d2">stevens</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">27137.3215161348</data>
+  <data key="d6">33510.8105305303</data>
+  <data key="d7">1.31933437435349</data>
+  <data key="d8">103.825566965234</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="199">
+  <data key="d0">TE12</data>
+  <data key="d1">Napier</data>
+  <data key="d2">napier</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">26401.666707457</data>
+  <data key="d6">32122.8625724912</data>
+  <data key="d7">1.30678223364785</data>
+  <data key="d8">103.818956796815</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="200">
+  <data key="d0">TE13</data>
+  <data key="d1">Orchard Boulevard</data>
+  <data key="d2">orchardboulevard</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">26948.2945375377</data>
+  <data key="d6">31640.7552477568</data>
+  <data key="d7">1.30242224836722</data>
+  <data key="d8">103.823868523249</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="201">
+  <data key="d0">TE14</data>
+  <data key="d1">Orchard</data>
+  <data key="d2">orchard</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">27783.6973352153</data>
+  <data key="d6">31709.5324909948</data>
+  <data key="d7">1.30304426265194</data>
+  <data key="d8">103.831375000068</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="202">
+  <data key="d0">TE15</data>
+  <data key="d1">Great World</data>
+  <data key="d2">greatworld</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">28044.7678659763</data>
+  <data key="d6">30703.7324468214</data>
+  <data key="d7">1.29394816169384</data>
+  <data key="d8">103.833720837731</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="203">
+  <data key="d0">TE16</data>
+  <data key="d1">Havelock</data>
+  <data key="d2">havelock</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">28029.7436560951</data>
+  <data key="d6">30101.8822241165</data>
+  <data key="d7">1.28850523975311</data>
+  <data key="d8">103.833585838226</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="204">
+  <data key="d0">TE17</data>
+  <data key="d1">Outram Park</data>
+  <data key="d2">outrampark</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">28647.6048249509</data>
+  <data key="d6">29308.4426563848</data>
+  <data key="d7">1.28132964411173</data>
+  <data key="d8">103.839137557749</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="205">
+  <data key="d0">TE18</data>
+  <data key="d1">Maxwell</data>
+  <data key="d2">maxwell</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">29175.8088360233</data>
+  <data key="d6">29220.3885515537</data>
+  <data key="d7">1.28053329842878</data>
+  <data key="d8">103.843883670633</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="206">
+  <data key="d0">TE19</data>
+  <data key="d1">Shenton Way</data>
+  <data key="d2">shentonway</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">29897.4191489154</data>
+  <data key="d6">28908.9617211055</data>
+  <data key="d7">1.2777168283425</data>
+  <data key="d8">103.850367596067</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="207">
+  <data key="d0">TE20</data>
+  <data key="d1">Marina Bay</data>
+  <data key="d2">marinabay</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">30447.3793931995</data>
+  <data key="d6">28579.995138919</data>
+  <data key="d7">1.27474173226842</data>
+  <data key="d8">103.855309167928</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="208">
+  <data key="d0">TE22</data>
+  <data key="d1">Gardens by the Bay</data>
+  <data key="d2">gardensbythebay</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2022-11-13</data>
+  <data key="d5">31799.0721787345</data>
+  <data key="d6">28994.1708776113</data>
+  <data key="d7">1.27848725876303</data>
+  <data key="d8">103.867454664421</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="209">
+  <data key="d0">TE23</data>
+  <data key="d1">Tanjong Rhu</data>
+  <data key="d2">tanjongrhu</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">32466.6345270379</data>
+  <data key="d6">31070.5354917869</data>
+  <data key="d7">1.29726507940646</data>
+  <data key="d8">103.873453254621</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="210">
+  <data key="d0">TE24</data>
+  <data key="d1">Katong Park</data>
+  <data key="d2">katongpark</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">33882.890949796</data>
+  <data key="d6">31133.1909445133</data>
+  <data key="d7">1.29783147778951</data>
+  <data key="d8">103.886178949925</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="211">
+  <data key="d0">TE25</data>
+  <data key="d1">Tanjong Katong</data>
+  <data key="d2">tanjongkatong</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">35128.2119915774</data>
+  <data key="d6">31297.7308518719</data>
+  <data key="d7">1.29931925769899</data>
+  <data key="d8">103.897368742078</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="212">
+  <data key="d0">TE26</data>
+  <data key="d1">Marine Parade</data>
+  <data key="d2">marineparade</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">35975.6107479017</data>
+  <data key="d6">31661.8079924919</data>
+  <data key="d7">1.30261163483383</data>
+  <data key="d8">103.904983086812</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="213">
+  <data key="d0">TE27</data>
+  <data key="d1">Marine Terrace</data>
+  <data key="d2">marineterrace</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">37102.263435401</data>
+  <data key="d6">32110.0544330366</data>
+  <data key="d7">1.30666510344814</data>
+  <data key="d8">103.9151067005</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="214">
+  <data key="d0">TE28</data>
+  <data key="d1">Siglap</data>
+  <data key="d2">siglap</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">38762.6117753303</data>
+  <data key="d6">32479.831004722</data>
+  <data key="d7">1.31000869432289</data>
+  <data key="d8">103.930025826708</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<node id="215">
+  <data key="d0">TE29</data>
+  <data key="d1">Bayshore</data>
+  <data key="d2">bayshore</data>
+  <data key="d3">#9D5B25</data>
+  <data key="d4">2024-06-23</data>
+  <data key="d5">40129.6870528692</data>
+  <data key="d6">32824.1944562085</data>
+  <data key="d7">1.31312248291264</data>
+  <data key="d8">103.942309776767</data>
+  <data key="d9">Thomson-East Coast Line</data>
+  <data key="d10">TEL</data>
+  <data key="d11">MRT</data>
+  <data key="d12">F</data>
+</node>
+<edge source="0" target="1">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="0" target="165">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="1" target="2">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="2" target="3">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="4" target="5">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="5" target="6">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="5" target="76">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="6" target="7">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="6" target="13">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="6" target="76">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="7" target="8">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="8" target="9">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="9" target="10">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="10" target="11">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="11" target="12">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="12" target="13">
+  <data key="d13">Bukit Panjang LRT</data>
+  <data key="d14">BP</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="45" target="46">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="45" target="150">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="45" target="184">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="46" target="47">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="47" target="48">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="48" target="49">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="48" target="73">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="48" target="89">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="49" target="50">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="50" target="51">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="51" target="52">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="52" target="53">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="53" target="54">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="53" target="117">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="54" target="55">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="54" target="100">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="55" target="56">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="56" target="57">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="57" target="58">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="57" target="156">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="58" target="59">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="59" target="60">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="59" target="177">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="60" target="61">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="61" target="62">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="61" target="197">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="62" target="63">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="62" target="83">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="63" target="64">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="64" target="65">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="65" target="66">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="65" target="130">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="66" target="67">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="67" target="68">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="68" target="69">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="69" target="70">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="70" target="71">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="71" target="72">
+  <data key="d13">Circle Line</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="72" target="146">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="73" target="74">
+  <data key="d13">Circle Line Extension</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="73" target="89">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="74" target="75">
+  <data key="d13">Circle Line Extension</data>
+  <data key="d14">CCL</data>
+  <data key="d15">#fa9e0d</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="74" target="90">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="75" target="187">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="75" target="207">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="143" target="144">
+  <data key="d13">Changi Extension</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="143" target="113">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="144" target="145">
+  <data key="d13">Changi Extension</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="144" target="109">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="76" target="77">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="77" target="78">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="78" target="79">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="79" target="80">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="80" target="81">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="81" target="82">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="82" target="83">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="83" target="84">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="84" target="85">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="84" target="198">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="85" target="86">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="85" target="181">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="86" target="87">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="86" target="151">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="87" target="88">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="88" target="89">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="88" target="121">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="89" target="90">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="90" target="91">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="91" target="92">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="92" target="93">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="93" target="94">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="93" target="148">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="94" target="95">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="95" target="96">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="96" target="97">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="97" target="98">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="98" target="99">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="99" target="100">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="100" target="101">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="101" target="102">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="102" target="103">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="103" target="104">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="104" target="105">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="105" target="106">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="106" target="107">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="106" target="111">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="107" target="108">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="108" target="109">
+  <data key="d13">Downtown Line</data>
+  <data key="d14">DTL</data>
+  <data key="d15">#005ec4</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="110" target="111">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="111" target="112">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="112" target="113">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="113" target="114">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="114" target="115">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="115" target="116">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="116" target="117">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="117" target="118">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="118" target="119">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="119" target="120">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="120" target="121">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="121" target="122">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="122" target="123">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="122" target="185">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="123" target="124">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="123" target="186">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="124" target="125">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="125" target="126">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="125" target="147">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="125" target="204">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="126" target="127">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="127" target="128">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="128" target="129">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="129" target="130">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="130" target="131">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="131" target="132">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="132" target="133">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="133" target="134">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="133" target="162">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="134" target="135">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="135" target="136">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="136" target="137">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="137" target="138">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="138" target="139">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="139" target="140">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="140" target="141">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="141" target="142">
+  <data key="d13">East-West Line</data>
+  <data key="d14">EWL</data>
+  <data key="d15">#009645</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="146" target="147">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="147" target="148">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="147" target="204">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="148" target="149">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="149" target="150">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="150" target="151">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="150" target="184">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="151" target="152">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="152" target="153">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="153" target="154">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="154" target="155">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="155" target="156">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="156" target="157">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="157" target="158">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="158" target="159">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="159" target="160">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="160" target="161">
+  <data key="d13">North East Line</data>
+  <data key="d14">NEL</data>
+  <data key="d15">#9900aa</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="160" target="30">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="160" target="36">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="161" target="14">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="161" target="22">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="162" target="163">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="163" target="164">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="164" target="165">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="165" target="166">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="166" target="167">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="167" target="168">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="168" target="169">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="169" target="170">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="169" target="190">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="170" target="171">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="171" target="172">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="172" target="173">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="173" target="174">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="174" target="175">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="175" target="176">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="176" target="177">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="177" target="178">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="178" target="179">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="179" target="180">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="180" target="181">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="181" target="182">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="182" target="183">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="182" target="201">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="183" target="184">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="184" target="185">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="185" target="186">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="186" target="187">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="187" target="188">
+  <data key="d13">North-South Line</data>
+  <data key="d14">NSL</data>
+  <data key="d15">#d42e12</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="187" target="207">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="14" target="15">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="14" target="21">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="14" target="22">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="15" target="16">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="16" target="17">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="17" target="18">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="18" target="19">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="19" target="20">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="20" target="21">
+  <data key="d13">Punggol LRT East Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="22" target="23">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="22" target="29">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="23" target="24">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="24" target="25">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="25" target="26">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="26" target="27">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="27" target="28">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="28" target="29">
+  <data key="d13">Punggol LRT West Loop</data>
+  <data key="d14">PG</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="30" target="31">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="30" target="35">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="30" target="36">
+  <data key="d19">True</data>
+  <data key="d18">transfer</data>
+</edge>
+<edge source="31" target="32">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="32" target="33">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="33" target="34">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="34" target="35">
+  <data key="d13">Sengkang LRT East Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="36" target="37">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="36" target="44">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="37" target="38">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="38" target="39">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="39" target="40">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="40" target="41">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="41" target="42">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="42" target="43">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="43" target="44">
+  <data key="d13">Sengkang LRT West Loop</data>
+  <data key="d14">SK</data>
+  <data key="d15">#748477</data>
+  <data key="d16">LRT</data>
+  <data key="d17">T</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="189" target="190">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="190" target="191">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="191" target="192">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="192" target="193">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="193" target="194">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="194" target="195">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="195" target="196">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="196" target="197">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="197" target="198">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="198" target="199">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="199" target="200">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="200" target="201">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="201" target="202">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="202" target="203">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="203" target="204">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="204" target="205">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="205" target="206">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="206" target="207">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="207" target="208">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="208" target="209">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="209" target="210">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="210" target="211">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="211" target="212">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="212" target="213">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="213" target="214">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+<edge source="214" target="215">
+  <data key="d13">Thomson-East Coast Line</data>
+  <data key="d14">TEL</data>
+  <data key="d15">#9D5B25</data>
+  <data key="d16">MRT</data>
+  <data key="d17">F</data>
+  <data key="d18">in-transit</data>
+</edge>
+</graph></graphml>
