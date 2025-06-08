@@ -3,17 +3,7 @@ import pandas as pd
 import networkx as nx
 
 
-def graph_add_nodes_from_dataframe(graph, data, node_id_col, attr_list):
-    '''
-    '''
-    for ix, row in data.iterrows():
 
-        node_id = row[node_id_col]
-        attr = {col : row[col] for col in attr_list}
-        # add node
-        graph.add_node(node_id, **attr)
-
-    return graph
 # ==========================================================================================================
 def _graph_add_edge(graph, source, target, edge_attr):
     '''
